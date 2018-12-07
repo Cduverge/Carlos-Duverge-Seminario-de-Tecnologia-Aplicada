@@ -1,7 +1,6 @@
 <html>
 <head>
-	<title>Seminario de Tecnologia Aplicada</title>
-	<meta charset=UTF-8"/>   
+	  
 </head>
 <center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png">
 																  </center>
