@@ -2,8 +2,7 @@
 <head>
 	  
 </head>
-<center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png">
-																  </center>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png"></center>
       
       <center><h1><u>HTML5</u></h1></center>
 	  
