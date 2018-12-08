@@ -1,6 +1,8 @@
 <html>
 
-<center> <img src="https://www.sfeir.com//img/school/formations/CSS%20200.png"></center>
+<center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-
+
+HTML5_logo_and_wordmark.svg.png"></center>
  <center> <h1><u>CSS</u></h1></center>
          
 <p>• El CSS (hojas de estilo en cascada) es un lenguaje que define la apariencia de un documento escrito en un lenguaje de marcado (por ejemplo, HTML). Asi, a los elementos de la pagina web creados con HTML se les dare la apariencia que se desee utilizando CSS: colores, espacios entre elementos, tipos de letra, separando de esta forma la estructura de la presentación.</p>
