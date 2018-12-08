@@ -23,8 +23,9 @@ desarrollada por el World Wide Web Consortium (W3C) con el fin de separar la est
   <a href="https:https://www.youtube.com/watch?v=uqkj7HQ7ids"target="_blank"><b>•Video #2 Curso Basico de CSS Selectores </b></a><br>
   <a href= "https://www.youtube.com/watch?v=BTv5Etachw0"target="_blank"><b>•Video #3 Curso Basico de CSS Unidades de Medida</b></a><br>
   <a href= "https://www.youtube.com/watch?v=XHkcNr93xoE"target="_blank"><b>•Video #4 Curso Basico de CSS Unidades de Color</b></a><br>
- <center> <img src="https://www.sfeir.com//img/school/formations/CSS%20200.png"></center>
- <center> <h1><u>CSS</u></h1></center>
+ 
+ <center> <img src="https://programarfacil.com/wp-content/uploads/2015/06/css3.png"></center>
+ <center> <h1><u>CSS3</u></h1></center>
          
 <p>• El CSS (hojas de estilo en cascada) es un lenguaje que define la apariencia de un documento escrito en un lenguaje de marcado (por ejemplo, HTML). Asi, a los elementos de la pagina web creados con HTML se les dare la apariencia que se desee utilizando CSS: colores, espacios entre elementos, tipos de letra, separando de esta forma la estructura de la presentación.</p>
 <p> •CSS (siglas en ingles de Cascading Style Sheets), en español "Hojas de estilo en cascada", es un lenguaje de diseño grafico para definir y crear la presentacion de un documento estructurado escrito en un lenguaje de marcado. Es muy usado para establecer el diseño visual de los documentos web, e interfaces de usuario escritas en HTML o XHTML; el lenguaje puede ser aplicado a cualquier documento XML, incluyendo XHTML, SVG, XUL, RSS, etc. Tambien permite aplicar estilos no visuales, como las hojas de estilo auditivas.</p>
@@ -41,7 +42,7 @@ desarrollada por el World Wide Web Consortium (W3C) con el fin de separar la est
   <a href="https:https://www.youtube.com/watch?v=uqkj7HQ7ids"target="_blank"><b>•Video #2 Curso Basico de CSS Selectores </b></a><br>
   <a href= "https://www.youtube.com/watch?v=BTv5Etachw0"target="_blank"><b>•Video #3 Curso Basico de CSS Unidades de Medida</b></a><br>
   <a href= "https://www.youtube.com/watch?v=XHkcNr93xoE"target="_blank"><b>•Video #4 Curso Basico de CSS Unidades de Color</b></a><br>
-<center> <img src="https://programarfacil.com/wp-content/uploads/2015/06/css3.png"></center>
+<center> <img src="https://i.blogs.es/544e7d/650_1000_javascript_logo/450_1000.png"></center>
  <center> <h1><u>JAVASCRIPT</u></h1></center>
 <p> •JavaScript (abreviado comunmente JS) es un lenguaje de programación interpretado, dialecto del estandar ECMAScript. Se define como orientado a objetos,3 basado en prototipos, imperativo, debilmente tipado y dinamico.</p>
 <p>• JavaScript Es un lenguaje de programación que te permite crear contenido nuevo y dinamico, controlar archivos de multimedia, crear imagenes animadas y muchas otras cosas mas. (Aunque, no todo, pero es increible lo que puedes llegar a hacer con tan solo unas pocas lineas de codigo de JavaScript).</p>
