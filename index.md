@@ -1,45 +1,23 @@
 <html>
-<head>
-	  
-</head>
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png"></center>
-      
-      <center><h1><u>HTML5</u></h1></center>
-	  
 
-      <p style="    font-weight:normal;"> •HTML5  es la última versión de HTML. El término representa dos conceptos diferentes:
-Se trata de una nueva versión de HTML, con nuevos elementos, atributos y comportamientos.
-Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones 
-ser más diversas y de gran alcance. A este ventajas se le llama HTML5..</p>
-      
-      <p> •HTML5 (HyperText Markup Language, versión 5) es la quinta revisión importante del lenguaje básico 
-de la World Wide Web, HTML. HTML5 especifica dos variantes de sintaxis para HTML: una «clásica», 
-HTML (text/html), conocida como HTML5, y una variante XHTML conocida como sintaxis XHTML5 que 
-deberá servirse con sintaxis XML (application/xhtml+xml).1​2​ Esta es la primera vez que HTML y 
-XHTML se han desarrollado en paralelo.</p>
-
-      <p> La versión definitiva de la quinta revisión del estándar se publicó en octubre de 2014.3​
-Al no ser reconocido en viejas versiones de navegadores por sus nuevas etiquetas, 
-se recomienda al usuario común actualizar su navegador a la versión más nueva, para 
-poder disfrutar de todo el potencial que provee HTML5. El desarrollo de este lenguaje
-de marcado es regulado por el Consorcio W3C. </p>
-
-<p> Nuevos elementos en HTML5 que establece una serie de elementos y atributos que reflejan 
-el uso típico de los sitios web modernos,también algunos de ellos son técnicamente similares a 
-las etiquetas div y span, pero tienen un significado semántico, como por ejemplo nav
-(bloque de navegación del sitio web) y footer. </p>
-
-       <p><b>REFERENCIA:</b></p>
-        <a href="https://hipertextual.com/archivo/2013/05/entendiendo-html5-guia-para-principiantes/l" target="_blank"> •HyperTextual.?<a><br>
-        <a href="https://desarrolloweb.com/articulos/que-es-html5.html"target="_blank"> •Desarrollo Web.<a><br>
-         <a href="https://es.wikipedia.org/wiki/HTML5">•Wikipedia.<a><br>
-        <a href="https://www.mastermarketingdigital.com/everriculum/2014/09/19/que-es-html5/"target="_blank">Máster Digital.<a><br>
-      
-        <p><b>Videos de Referencia con relacion al tema:</b></p>
-          <a href="https://www.youtube.com/watch?v=_SRWasy7zHU"target="_blank"><b> •Video #1 Que es y para que se utiliza HTML 5?</b></a><br>
-           <a href="https://www.youtube.com/watch?v=CdfMG_Qy00E&index=2&list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK"target="_blank"><b>•Video #2 Curso HTML 5. Conceptos basicos</b></a><br>
-           <a href="https://www.youtube.com/watch?v=rpPUQ2qVFYw&list=PLv6CkzbbGAlXld23oW5eTzoSrtHkV6i99"target="_blank"><b> •Video #3 HTML5: ¿Que es HTML5?</b></a><br>
-            <a href="https://www.youtube.com/watch?v=wuwZitgm8eQ"target="_blank"><b> •Video #4  ¿Que es HTML5? </b></a><br>
+<center> <img src="https://www.sfeir.com//img/school/formations/CSS%20200.png"></center>
+ <center> <h1><u>CSS</u></h1></center>
+         
+<p>• El CSS (hojas de estilo en cascada) es un lenguaje que define la apariencia de un documento escrito en un lenguaje de marcado (por ejemplo, HTML). Asi, a los elementos de la pagina web creados con HTML se les dare la apariencia que se desee utilizando CSS: colores, espacios entre elementos, tipos de letra, separando de esta forma la estructura de la presentación.</p>
+<p> •CSS (siglas en ingles de Cascading Style Sheets), en español "Hojas de estilo en cascada", es un lenguaje de diseño grafico para definir y crear la presentacion de un documento estructurado escrito en un lenguaje de marcado. Es muy usado para establecer el diseño visual de los documentos web, e interfaces de usuario escritas en HTML o XHTML; el lenguaje puede ser aplicado a cualquier documento XML, incluyendo XHTML, SVG, XUL, RSS, etc. Tambien permite aplicar estilos no visuales, como las hojas de estilo auditivas.</p>
+<p> •CSS (Cascading Style Sheets, u Hojas de Estilo en Cascada) es la tecnologia desarrollada por el World Wide Web Consortium (W3C) con el fin de separar la estructura de la presentación.   (Cascading Style Sheets, u Hojas de Estilo en Cascada) es la tecnología
+desarrollada por el World Wide Web Consortium (W3C) con el fin de separar la estructura de la presentación. </p>
+<p>•CSS es un lenguaje de hojas de estilos creado para controlar el aspecto o presentación de los documentos electronicos definidos con HTML y XHTML. CSS es la mejor forma de separar los contenidos y su presentación y es imprescindible para crear paginas web complejas.</p>
+<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
+<a href="http://www.arumeinformatica.es/dudas/css/" target="_blank">•¿Que es?<a><br>
+<a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada" target="_blank">•Hoja de estilos en cascada<a><br>
+<a href="http://www.maestrosdelweb.com/introcss/" target="_blank">•¿Qué es Css?<a><br>
+<a href="https://librosweb.es/libro/css/capitulo-1.html" target="_blank">•¿Qué es Css?<a><br>
+  <p><b>Videos de Referencia con relacion al tema:</b></p>
+  <a href="https://www.youtube.com/watch?v=24gNhTcy6pw"target="_blank"><b>•Video #1 Curso Basico de CSS desde 0 Introduccion</b></a><br>
+  <a href="https:https://www.youtube.com/watch?v=uqkj7HQ7ids"target="_blank"><b>•Video #2 Curso Basico de CSS Selectores </b></a><br>
+  <a href= "https://www.youtube.com/watch?v=BTv5Etachw0"target="_blank"><b>•Video #3 Curso Basico de CSS Unidades de Medida</b></a><br>
+  <a href= "https://www.youtube.com/watch?v=XHkcNr93xoE"target="_blank"><b>•Video #4 Curso Basico de CSS Unidades de Color</b></a><br>
  <center> <img src="https://www.sfeir.com//img/school/formations/CSS%20200.png"></center>
  <center> <h1><u>CSS</u></h1></center>
          
