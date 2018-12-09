@@ -10,54 +10,75 @@ html>
 <body background="Fondo1.jpg" bgcolor="FFCECB">
 <body>
 <body bgcolor="turquoise">
-      <p style="    font-weight:normal;"> •HTML5: (HyperText Markup Language, version 5) es la quinta revisiíon del lenguaje HTML. Esta nueva version (aun en desarrollo), y en conjunto con CSS3, define los nuevos estandares de desarrollo web, rediseñando el codigo para resolver problemas y actualizandolo asi a nuevas necesidades. No se limita solo a crear nuevas etiquetas o atributos, sino que incorpora muchas caracteristicas nuevas y proporciona una plataforma de desarrollo de complejas aplicaciones web (mediante los APIs). HTML5 esta destinado a sustituir no solo HTML 4, sino tambien XHTML 1 y DOM Nivel 2. Esta version nos permite una mayor interaccion entre nuestras paginas web y el contenido media (video, audio, entre otros) asi como una mayor facilidad a la hora de codificar nuestro diseño basico.</p>
-      <p>  •HTML5:  es un lenguaje markup (de hecho, las siglas de HTML significan Hyper Text Markup Language) usado para estructurar y presentar el contenido para la web. Es uno de los aspectos fundamentales para el funcionamiento de los sitios, pero no es el primero. Es de hecho la quinta revision del estandar que fue creado en 1990. A fines del año pasado, la W3C la recomenda para transformarse en el estandar a ser usado en el desarrollo de proyectos venideros. Por asi decirlo, que es HTML5 esta relacionado tambien con la entrada en decadencia del viejo estandar HTML 4, que se combinaba con otros lenguajes para producir los sitios que podemos ver hoy en dia. Con HTML5, tenemos otras posibilidades para explotar usando menos recursos. Con HTML5, tambien entra en desuso el formato XHTML, dado que ya no seria necesaria su implementacion.</p>
+      <p style="    font-weight:normal;"> •HTML5: HTML5  es la última versión de HTML. El término representa dos conceptos diferentes:
+Se trata de una nueva versión de HTML, con nuevos elementos, atributos y comportamientos.
+Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones 
+ser más diversas y de gran alcance. A este ventajas se le llama HTML5.
+</p>
+      <p>  •(HyperText Markup Language, versión 5) es la quinta revisión importante del lenguaje básico 
+de la World Wide Web, HTML. HTML5 especifica dos variantes de sintaxis para HTML: una «clásica», 
+HTML (text/html), conocida como HTML5, y una variante XHTML conocida como sintaxis XHTML5 que 
+deberá servirse con sintaxis XML (application/xhtml+xml).12 Esta es la primera vez que HTML y 
+XHTML se han desarrollado en paralelo.
+</p>
       
-      <p> •HTML5  HTML5 es un lenguaje de marcas empleado para estructurar y presentar contenido en la WWW.
-Como su nombre lo indica es la quinta revision del estandar HTML y permite soportar lo ultimo en multimedia. De hecho HTML5 agrega elementos como video, audio y canvas, como asi tambien integracion para graficos vectoriales (SVG) y MathML para formulas matematicas.
-Estas caracteristicas permiten incluir y controlar contenido multimedia en la web sin tener que recurrir a plugins ni APIs propietarias.</p>
-      <p> •HTML 5 : En terminos de Markup, el HTML5 introduce algunos elementos que hacen que se aggiorne a los tiempos que corren. Asi, muchas de las novedades estan relacionadas con la forma de construir websites que se tiene en la actualidad. Una de las más importantes novedades esta relacionada con la insercion de multimedia en los sitios web, que ahora contarón con etiquetas HTML especiales para poder ser incluidos. Por otro lado, algunos aspectos de diseño tambien son incluidos en el lenguaje, asicomo tambien algunos detalles de navegación. Veremos todo esto en algunas lineas. </p>
-       <p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-        <a href="https://www.arkaitzgarro.com/html5/capitulo-1.html" target="_blank"> •¿Que es html5?<a><br>
-        <a href="https://hipertextual.com/archivo/2013/05/entendiendo-html5-guia-para-principiantes/"target="_blank"> •Html5: Guía para principiantes<a><br>
-         <a href="http://www.alegsa.com.ar/Dic/html5.php"target="_blank">•Definición de HTML5<a><br>
-        <a href="https://hipertextual.com/archivo/2013/05/entendiendo-html5-guia-para-principiantes/"target="_blank">•Cuáles son sus novedades<a><br>
+      <p> •Nuevos elementos en HTML5 que establece una serie de elementos y atributos que reflejan 
+el uso típico de los sitios web modernos,también algunos de ellos son técnicamente similares a 
+las etiquetas div y span, pero tienen un significado semántico, como por ejemplo nav
+(bloque de navegación del sitio web) y footer.
+.</p>
+      <p> •La versión definitiva de la quinta revisión del estándar se publicó en octubre de 2014.3
+Al no ser reconocido en viejas versiones de navegadores por sus nuevas etiquetas, 
+se recomienda al usuario común actualizar su navegador a la versión más nueva, para 
+poder disfrutar de todo el potencial que provee HTML5. El desarrollo de este lenguaje
+de marcado es regulado por el Consorcio W3C.
+ </p>
+       <p><b>Referencia  :</b></p>
+        <a href="https://hipertextual.com/archivo/2013/05/entendiendo-html5-guia-para-principiantes/" target="_blank"> •Hypertextual<a><br>
+        <a href="https://desarrolloweb.com/articulos/que-es-html5.html"target="_blank"> •Desarrollo Web<a><br>
+         <a href="https://es.wikipedia.org/wiki/HTML5"target="_blank">•Wikipedia.<a><br>
+        <a href="https://www.mastermarketingdigital.com/everriculum/2014/09/19/que-es-html5/"target="_blank">•Máster <a><br>
       
-        <p><b>Videos de Referencia con relacion al tema:</b></p>
-          <a href="https://www.youtube.com/watch?v=_SRWasy7zHU"target="_blank"><b> •Video #1 Que es y para que se utiliza HTML 5?</b></a><br>
-           <a href="https://www.youtube.com/watch?v=CdfMG_Qy00E&index=2&list=PLU8oAlHdN5BnX63lyAeV0LzLnpGudgRrK"target="_blank"><b>•Video #2 Curso HTML 5. Conceptos basicos</b></a><br>
-           <a href="https://www.youtube.com/watch?v=rpPUQ2qVFYw&list=PLv6CkzbbGAlXld23oW5eTzoSrtHkV6i99"target="_blank"><b> •Video #3 HTML5: ¿Que es HTML5?</b></a><br>
-            <a href="https://www.youtube.com/watch?v=wuwZitgm8eQ"target="_blank"><b> •Video #4  ¿Que es HTML5? </b></a><br>
+        <p><b>Videos Relacionados:</b></p>
+          <a href="https://www.youtube.com/watch?v=_93kDSPlKIM"target="_blank"><b> 1- Introducción A HTML5</b></a><br>
+           <a href="https://www.tutellus.com/tecnologia/desarrollo-web/programacion-web-desde-cero-html5-css3-y-javascript-12566"target="_blank"><b> 2- Paginas Web desde Cero, HTML5 </b></a><br>
+           <a href="https://www.youtube.com/watch?v=dntYqEoozR4"target="_blank"><b> 3 Curso de HTML5</b></a><br>
+            <a href=".**](https://www.youtube.com/watch?v=dUaRqfi0AM0"target="_blank"><b> 4-  Tutorial de HTML5  </b></a><br>
  
  <center> <img src="https://programarfacil.com/wp-content/uploads/2015/06/css3.png"></center>
  <center> <h1><u>CSS3</u></h1></center>
          
-<p>• El CSS (hojas de estilo en cascada) es un lenguaje que define la apariencia de un documento escrito en un lenguaje de marcado (por ejemplo, HTML). Asi, a los elementos de la pagina web creados con HTML se les dare la apariencia que se desee utilizando CSS: colores, espacios entre elementos, tipos de letra, separando de esta forma la estructura de la presentación.</p>
-<p> •CSS (siglas en ingles de Cascading Style Sheets), en español "Hojas de estilo en cascada", es un lenguaje de diseño grafico para definir y crear la presentacion de un documento estructurado escrito en un lenguaje de marcado. Es muy usado para establecer el diseño visual de los documentos web, e interfaces de usuario escritas en HTML o XHTML; el lenguaje puede ser aplicado a cualquier documento XML, incluyendo XHTML, SVG, XUL, RSS, etc. Tambien permite aplicar estilos no visuales, como las hojas de estilo auditivas.</p>
-<p> •CSS (Cascading Style Sheets, u Hojas de Estilo en Cascada) es la tecnologia desarrollada por el World Wide Web Consortium (W3C) con el fin de separar la estructura de la presentación.   (Cascading Style Sheets, u Hojas de Estilo en Cascada) es la tecnología
-desarrollada por el World Wide Web Consortium (W3C) con el fin de separar la estructura de la presentación. </p>
-<p>•CSS es un lenguaje de hojas de estilos creado para controlar el aspecto o presentación de los documentos electronicos definidos con HTML y XHTML. CSS es la mejor forma de separar los contenidos y su presentación y es imprescindible para crear paginas web complejas.</p>
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="http://www.arumeinformatica.es/dudas/css/" target="_blank">•¿Que es?<a><br>
-<a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada" target="_blank">•Hoja de estilos en cascada<a><br>
-<a href="http://www.maestrosdelweb.com/introcss/" target="_blank">•¿Qué es Css?<a><br>
-<a href="https://librosweb.es/libro/css/capitulo-1.html" target="_blank">•¿Qué es Css?<a><br>
-  <p><b>Videos de Referencia con relacion al tema:</b></p>
+<p>• El CSS5 El nombre hojas de estilo en cascada viene del inglés Cascading Style Sheets, del que toma sus siglas. CSS es un lenguaje usado para definir la presentación de un documento estructurado escrito en HTML o XML (y por extensión en XHTML). El W3C(World Wide Web Consortium) es el encargado de formular la especificación de las hojas de estilo que servirán de estándar para los agentes de usuario o navegadores.</p>
+<p> •CSS5 La idea que se encuentra detrás del desarrollo de CSS es separar la estructura de un documento de su presentación. La información de estilo puede ser adjuntada como un documento separado o en el mismo documento HTML. En este último caso podrían definirse estilos generales en la cabecera del documento o en cada etiqueta particular mediante el atributo "<style>".</p>
+<p> •Para qué sirve el css 3? El CSS sirve para definir la estética de un sitio web en un documento externo y eso mismo permite que modificando ese documento (la hoja CSS) podamos cambiar la estética entera de un sitio web, el mismo sitio web puede variar totalmente de estética cambiando solo la CSS, sin tocar para nada los documentos HTML o jsp o asp que lo componen.  </p>
+<p>•Es un lenguaje utilizado para dar estética a un documento HTML (colores, tamaños de las fuentes, tamaños de elemento, con css podemos establecer diferentes reglas que indicarán como debe presentarse un documento. Podemos indicar propiedades como el color, el tamaño de la letra, el tipo de letra, si es negrita, si es itálica, también se puede dar forma a otras cosas que no sean letras, como colores de fondo de una página, tamaños de un elemento (por ejemplo el alto y el ancho de una tabla. .</p>
+
+<p><b>Referencia </b></p>
+<a href="https://www.ecured.cu/CSS3#Introducci.C3.B3n_a_CSS3/" target="_blank">1- Ecured<a><br>
+<a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada" target="_blank">2-Desarrollo Web<a><br>
+<a href="http://idesweb.es/temario/css3/" target="_blank">3-IDESWeb<a><br>
+<a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada/" target="_blank">4-WIKIPEDIA.<a><br>
+	
+  <p><b>Videos Relacionados</b></p>
   <a href="https://www.youtube.com/watch?v=24gNhTcy6pw"target="_blank"><b>•Video #1 Curso Basico de CSS desde 0 Introduccion</b></a><br>
   <a href="https:https://www.youtube.com/watch?v=uqkj7HQ7ids"target="_blank"><b>•Video #2 Curso Basico de CSS Selectores </b></a><br>
   <a href= "https://www.youtube.com/watch?v=BTv5Etachw0"target="_blank"><b>•Video #3 Curso Basico de CSS Unidades de Medida</b></a><br>
   <a href= "https://www.youtube.com/watch?v=XHkcNr93xoE"target="_blank"><b>•Video #4 Curso Basico de CSS Unidades de Color</b></a><br>
+  
 <center> <img src="https://i.blogs.es/544e7d/650_1000_javascript_logo/450_1000.png"></center>
  <center> <h1><u>JAVASCRIPT</u></h1></center>
+
 <p> •JavaScript (abreviado comunmente JS) es un lenguaje de programación interpretado, dialecto del estandar ECMAScript. Se define como orientado a objetos,3 basado en prototipos, imperativo, debilmente tipado y dinamico.</p>
 <p>• JavaScript Es un lenguaje de programación que te permite crear contenido nuevo y dinamico, controlar archivos de multimedia, crear imagenes animadas y muchas otras cosas mas. (Aunque, no todo, pero es increible lo que puedes llegar a hacer con tan solo unas pocas lineas de codigo de JavaScript).</p>
 <p>•JavaScript es un lenguaje de programación que te permite realizar actividades complejas en una pagina web cada vez mas una pagina web hace mas cosas que silo mostrar información estatica como mostrar actualizaciones de contenido en el momento, interactuar con mapas, animaciones graficas 2D/3D etc. </p>
 <p>•JavaScript, es uno de los mas potentes e importantes lenguajes de programación en la actualidad, por tres enfoques claros: es util, practico y esta disponible en cualquier navegador web.
  <p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
+ 
 <a href="https://es.wikipedia.org/wiki/JavaScript"target="_blank"><b>•¿Que es Javascript?</b></a><br>
 <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript"target="_blank"><b>•Definición General</b></a><br>
 <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript"target="_blank"><b> •Curso de Javascript para principiantes</b></a><br>
 <a href="https://devcode.la/blog/que-es-javascript/"target="_blank"><b>•JavaScript</b></a><br>
+
 <p><b>Videos de Referencia con relacion al tema:</b></p>
 <a href=" https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G"target="_blank"><b>•Video #1 Curso Basico de Javascript desde 0 Introducción</b></a><br>
 <a href= "https://www.youtube.com/watch?v=riZbwRFMFuw"target="_blank"><b>•Video #2 ¿Que es JavaScript? bien explicado</b></a><br>
@@ -360,10 +381,10 @@ El término realidad mixta no debe confundirse con el de realidad aumentada o RA
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
 
-<a href="https://www.youtube.com/watch?v=9VkVjsoNZxU"target="_blank"><b>•Video  #1 Internet de las Cosas </b></a><br>
-<a href="https://www.youtube.com/watch?v=gV7l2YOSOQ4"target="_blank"><b>•Video  #2 Internet de las cosas (IoT)  ¿En qué consiste y cómo funciona? </b></a><br>
-<a href="https://www.youtube.com/watch?v=g1j-Pta2QAs"target="_blank"><b>•Video  #3 INTERNET OF THINGS - Tu propio Servidor IoT </b></a><br>
-<a href="https://www.youtube.com/watch?v=lPlRo2hhhMs"target="_blank"><b>•Video  #4  IOT PROJECTS- Tu propio Servidor IoT </b></a><br>
+<a href="https://www.youtube.com/watch?v=9VkVjsoNZxU"target="_blank"><b>•Video  1- Internet de las Cosas </b></a><br>
+<a href="https://www.youtube.com/watch?v=gV7l2YOSOQ4"target="_blank"><b>•Video  2- Internet de las cosas (IoT)  ¿En qué consiste y cómo funciona? </b></a><br>
+<a href="https://www.youtube.com/watch?v=g1j-Pta2QAs"target="_blank"><b>•Video  3- INTERNET OF THINGS - Tu propio Servidor IoT </b></a><br>
+<a href="https://www.youtube.com/watch?v=lPlRo2hhhMs"target="_blank"><b>•Video  4-  IOT PROJECTS- Tu propio Servidor IoT </b></a><br>
 
 <center> <img src="https://tecnologia.usfx.bo/wp-content/uploads/2017/12/LOGO-MECATR%C3%93NICA.jpg"></center>
 
@@ -390,10 +411,10 @@ La mecatrónica nace para suplir tres necesidades latentes; la primera, encamina
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
 
-<a href=" https://www.youtube.com/watch?v=uhgTgSHJXU8"target="_blank"><b>•Video  #1 ¿Qué es la mecatronica? </b></a><br>
-<a href="https://www.youtube.com/watch?v=zYo8z2r3mnY"target="_blank"><b>•Video  #2 ¿Qué es la mecatronica? </b></a><br>
-<a href="https://www.youtube.com/watch?v=R0TjiS0_Yco"target="_blank"><b>•Video  #3  La mecatronica? </b></a><br>
-<a href="https://www.youtube.com/watch?v=-5Bz2pdgIJI"target="_blank"><b>•Video  # 4 La mecatronica? </b></a><br>
+<a href=" https://www.youtube.com/watch?v=uhgTgSHJXU8"target="_blank"><b>•Video 1- ¿Qué es la mecatronica? </b></a><br>
+<a href="https://www.youtube.com/watch?v=zYo8z2r3mnY"target="_blank"><b>•Video  2- ¿Qué es la mecatronica? </b></a><br>
+<a href="https://www.youtube.com/watch?v=R0TjiS0_Yco"target="_blank"><b>•Video  3-  La mecatronica? </b></a><br>
+<a href="https://www.youtube.com/watch?v=-5Bz2pdgIJI"target="_blank"><b>•Video  4- La mecatronica? </b></a><br>
 
 
 <center> <img src=" https://cerasis.com/wp-content/uploads/2014/12/3d-printing-in-manufacturing1.jpg"></center>
@@ -427,10 +448,10 @@ Pero el campo se extiende mucho más allá de esto, ya que también podemos enco
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
 
-<a href=" https://www.youtube.com/watch?v=afOblfno0vQ"target="_blank"><b>•Video  #1 ¿Qué es una Impresora 3D y cómo funciona? </b></a><br>
-<a href="https://www.youtube.com/watch?v=Zd7iP20PTd4"target="_blank"><b>•Video  #2 Impresión 3D ¿La tercera revolución industrial? </b></a><br>
-<a href="https://www.youtube.com/watch?v=7s1cy2iRWm0"target="_blank"><b>•Video  #3 Que es la Impresión 3D </b></a><br>
-<a href="https://www.youtube.com/watch?v=khE072FW6KE"target="_blank"><b>•Video  #4  Que es la Impresión 3D </b></a><br>
+<a href=" https://www.youtube.com/watch?v=afOblfno0vQ"target="_blank"><b>•Video 1- ¿Qué es una Impresora 3D y cómo funciona? </b></a><br>
+<a href="https://www.youtube.com/watch?v=Zd7iP20PTd4"target="_blank"><b>•Video  2- Impresión 3D ¿La tercera revolución industrial? </b></a><br>
+<a href="https://www.youtube.com/watch?v=7s1cy2iRWm0"target="_blank"><b>•Video  3- Que es la Impresión 3D </b></a><br>
+<a href="https://www.youtube.com/watch?v=khE072FW6KE"target="_blank"><b>•Video  4-  Que es la Impresión 3D </b></a><br>
 
 
 <center> <img src=" data:image/png;base64,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 "></center>
@@ -458,10 +479,10 @@ Los autos que se conducen solos, la realidad virtual, las ciudades inteligentes 
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
 
-<a href="https://www.youtube.com/watch?v=DDizZizSSEs"target="_blank"><b>•Video  #1 ¿Qué es una tecnologia g5 ? </b></a><br>
-<a href="https://www.youtube.com/watch?v=jRs7Yg5euPo"target="_blank"><b>•Video  #2  La tecnologia g5  </b></a><br>
-<a href="https://www.youtube.com/watch?v=hRFFKVlWRag"target="_blank"><b>•Video  #3  G5 TECNOLOGIA  </b></a><br>
-<a href="https://www.youtube.com/watch?v=wf4t2J-l5zk"target="_blank"><b>•Video  #4  Telefonía Móvil 5G. La Quinta Generación.  </b></a><br>
+<a href="https://www.youtube.com/watch?v=DDizZizSSEs"target="_blank"><b>•Video  1- ¿Qué es una tecnologia g5 ? </b></a><br>
+<a href="https://www.youtube.com/watch?v=jRs7Yg5euPo"target="_blank"><b>•Video  2-  La tecnologia g5  </b></a><br>
+<a href="https://www.youtube.com/watch?v=hRFFKVlWRag"target="_blank"><b>•Video  3-  G5 TECNOLOGIA  </b></a><br>
+<a href="https://www.youtube.com/watch?v=wf4t2J-l5zk"target="_blank"><b>•Video  4-  Telefonía Móvil 5G. La Quinta Generación.  </b></a><br>
 
 
  <center><h1><u>RESUMEN</h1></center>
@@ -472,12 +493,12 @@ Manejamos muchos dispositivos electrónicos que son susceptibles de ser utilizad
 La Ciberseguridad trata de proteger los activos de información, a través del tratamiento de amenazas que ponen en riesgo la información que es procesada, almacenada y transportada por los sistemas de información que se encuentran interconectados. 
 La Internet de las cosas es un tema emergente de importancia técnica, social y económica. Sin embargo, la Internet de las Cosas también plantea importantes desafíos que podrían dificultar la realización de sus potenciales beneficios. Con los últimos avances en CSS3 muchos de los efectos que antes sólo alcanzable en Photoshop ahora puede ser replicado en código CSS, pero a veces es difícil de visualizar la aparición de estos efectos, mirando a unas pocas líneas de sintaxis. Cuando vemos la evolución de la red de comunicación móvil, la G de generación inalámbrica móvil generalmente nos indica que ha habido un cambio en la naturaleza del sistema, la velocidad, la tecnología y la frecuencia. Cada generación tiene algunos estándares, capacidades técnicas y nuevas características que la diferencian de la anterior. </p>
 
-<p><b> Matricula :14-EISM-1-077</b></p> 
+<p><b> Matricula :01-EIST-1-263</b></p> 
 
- <p style="    font-weight:normal;">Kasthyan Gabriela Gutierrez Reyes</p>  
-<p style="    font-weight:normal;"> Materia:Seminario de Tecnologia</p>
+ <p style="    font-weight:normal;">Carlos Jonathan Duverge Jaquez</p>  
+<p style="    font-weight:normal;"> Seminario de Tecnologia Aplicada</p>
 
-<a href="https://github.com/kasthyan/https-github.com-kasthyan-Seminario-de-Tecnologia-Aplicada.io" target="_blank">Mi repositorio!</a>
+<a href="https://github.com/Cduverge/Carlos-Duverge-Seminario-de-Tecnologia-Aplicada.io" target="_blank">Mi repositorio!</a>
 
 </body>
 </html>
