@@ -1,6 +1,6 @@
 html>
 <head>
-	<title>PRACTICA FINAL SEMINAROIO</title>
+	<title>Seminario de Tecnologia</title>
 	<meta charset=UTF-8"/>   
 </head>
 <center> <img src="https://bbvaopen4u.com/sites/default/files/styles/big-image/public/img/new/115a8_html_strong.jpg?itok=HLsLsafw"></center>
@@ -15,7 +15,7 @@ Se trata de una nueva versión de HTML, con nuevos elementos, atributos y compor
 Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones 
 ser más diversas y de gran alcance. A este ventajas se le llama HTML5.
 </p>
-      <p>  •(HyperText Markup Language, versión 5) es la quinta revisión importante del lenguaje básico 
+      <p> •HTML5 es la quinta revisión importante del lenguaje básico 
 de la World Wide Web, HTML. HTML5 especifica dos variantes de sintaxis para HTML: una «clásica», 
 HTML (text/html), conocida como HTML5, y una variante XHTML conocida como sintaxis XHTML5 que 
 deberá servirse con sintaxis XML (application/xhtml+xml).12 Esta es la primera vez que HTML y 
@@ -26,20 +26,20 @@ XHTML se han desarrollado en paralelo.
 el uso típico de los sitios web modernos,también algunos de ellos son técnicamente similares a 
 las etiquetas div y span, pero tienen un significado semántico, como por ejemplo nav
 (bloque de navegación del sitio web) y footer.
-.</p>
+</p>
       <p> •La versión definitiva de la quinta revisión del estándar se publicó en octubre de 2014.3
 Al no ser reconocido en viejas versiones de navegadores por sus nuevas etiquetas, 
 se recomienda al usuario común actualizar su navegador a la versión más nueva, para 
 poder disfrutar de todo el potencial que provee HTML5. El desarrollo de este lenguaje
 de marcado es regulado por el Consorcio W3C.
- </p>
+</p>
        <p><b>Referencia  :</b></p>
-        <a href="https://hipertextual.com/archivo/2013/05/entendiendo-html5-guia-para-principiantes/" target="_blank"> •Hypertextual<a><br>
-        <a href="https://desarrolloweb.com/articulos/que-es-html5.html"target="_blank"> •Desarrollo Web<a><br>
+       <a href="https://hipertextual.com/archivo/2013/05/entendiendo-html5-guia-para-principiantes/" target="_blank"> •Hypertextual<a><br>
+         <a href="https://desarrolloweb.com/articulos/que-es-html5.html"target="_blank"> •Desarrollo Web<a><br>
          <a href="https://es.wikipedia.org/wiki/HTML5"target="_blank">•Wikipedia.<a><br>
-        <a href="https://www.mastermarketingdigital.com/everriculum/2014/09/19/que-es-html5/"target="_blank">•Máster <a><br>
+         <a href="https://www.mastermarketingdigital.com/everriculum/2014/09/19/que-es-html5/"target="_blank">•Máster <a><br>
       
-        <p><b>Videos Relacionados:</b></p>
+        <p><b>Videos Relacionados: </b></p>
           <a href="https://www.youtube.com/watch?v=_93kDSPlKIM"target="_blank"><b> 1- Introducción A HTML5</b></a><br>
            <a href="https://www.tutellus.com/tecnologia/desarrollo-web/programacion-web-desde-cero-html5-css3-y-javascript-12566"target="_blank"><b> 2- Paginas Web desde Cero, HTML5 </b></a><br>
            <a href="https://www.youtube.com/watch?v=dntYqEoozR4"target="_blank"><b> 3 Curso de HTML5</b></a><br>
@@ -65,7 +65,7 @@ de marcado es regulado por el Consorcio W3C.
   <a href= "https://www.youtube.com/watch?v=BTv5Etachw0"target="_blank"><b>•Video #3 Curso Basico de CSS Unidades de Medida</b></a><br>
   <a href= "https://www.youtube.com/watch?v=XHkcNr93xoE"target="_blank"><b>•Video #4 Curso Basico de CSS Unidades de Color</b></a><br>
   
-<center> <img src="https://i.blogs.es/544e7d/650_1000_javascript_logo/450_1000.png"></center>
+ <center> <img src="https://i.blogs.es/544e7d/650_1000_javascript_logo/450_1000.png"></center>
  <center> <h1><u>JAVASCRIPT</u></h1></center>
 
 <p> •JavaScript (abreviado comunmente JS) es un lenguaje de programación interpretado, dialecto del estandar ECMAScript. Se define como orientado a objetos,3 basado en prototipos, imperativo, debilmente tipado y dinamico.</p>
