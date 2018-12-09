@@ -81,11 +81,10 @@ Todos los navegadores modernos interpretan el código JavaScript integrado en la
 <p>Tradicionalmente se venía utilizando en páginas web HTML para realizar operaciones y únicamente en el marco de la aplicación cliente, sin acceso a funciones del servidor. Actualmente es ampliamente utilizado para enviar y recibir información del servidor junto con ayuda de otras tecnologías como AJAX. JavaScript se interpreta en el agente de usuario al mismo tiempo que las sentencias van descargándose junto con el código HTML.</p>
 
 <p><b>Referencias</b></p>
- 
-<a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics"target="_blank"><b>1-DeveloperMozilla</b></a><br>
-<a href="https://librosweb.es/libro/javascript/capitulo-1.html"target="_blank"><b>2-LibrosWeb</b></a><br>
-<a href="https://es.wikipedia.org/wiki/JavaScript"target="_blank"><b>3-Wikipedia</b></a><br>
-<a href="https://desarrolloweb.com/javascript/"target="_blank"><b>4-DesarrolloWeb</b></a><br>
+<a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics"target="_blank">1-DeveloperMozilla</a><br>
+<a href="https://librosweb.es/libro/javascript/capitulo-1.html"target="_blank">2-LibrosWeb</a><br>
+<a href="https://es.wikipedia.org/wiki/JavaScript"target="_blank">3-Wikipedia</a><br>
+<a href="https://desarrolloweb.com/javascript/"target="_blank">4-DesarrolloWeb</a><br>
 
 <p><b>Videos Relacionados</b></p>
 <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg"target="_blank"><b>Curso de Javascript </b></a><br>
@@ -93,7 +92,7 @@ Todos los navegadores modernos interpretan el código JavaScript integrado en la
 <a href="https://www.youtube.com/watch?v=fju9ii8YsGs"target="_blank"><b>JavaScript Tutorial </b></a><br>
 <a href="https://www.youtube.com/watch?v=seaq4UxKNHU"target="_blank"><b>CURSO COMPLETO DE JAVASCRIPT</b></a><br>
 
-<center> <http://www.globalmediainsight.com/blog/wp-content/uploads/2016/10/progressive-web-apps.jpg"></center>
+<center> <img src="http://www.globalmediainsight.com/blog/wp-content/uploads/2016/10/progressive-web-apps.jpg"></center>
 <center> <h1><u>PROGRESSIVE WEB APPS
 </u></h1></center>
 
@@ -114,29 +113,32 @@ Todos los navegadores modernos interpretan el código JavaScript integrado en la
 <a href="https://www.youtube.com/watch?v=yYOqbHfMSYU"target="_blank"><b>Desarrollo App Web Progresiva (PWA) y Aplicaciones Móvil</b></a><br>
 <a href="https://developers.google.com/web/progressive-web-apps/"target="_blank"><b>Progressive Web Apps | Web | Google Developers</b></a><br>
 
-<center> <img src="https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/566560d25bafe8a163dc683a/ia.jpg"></center>
+<center> <img src="https://static.iris.net.co/dinero/upload/images/2018/5/23/258682_1.jpg"></center>
 <center> <h1><u>INTELIGENCIA ARTIFICIAL
 </u></h1></center>
-<p>•INTELIGENCIA ARTIFICIAL: La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con el proposito de crear maquinas que presenten las mismas capacidades que el ser humano. Una tecnología que todavía nos resulta lejana y misteriosa, pero que desde hace unos años esta presente en nuestro día a día a todas horas.</p>
-<p>•La inteligencia artificial (Artificial Intelligence, o AI) es la simulación de procesos de inteligencia humana por parte de maquinas, especialmente sistemas informaticos. Estos procesos incluyen el aprendizaje (la adquisición de información y reglas para el uso de la información), el razonamiento (usando las reglas para llegar a conclusiones aproximadas o definitivas) y la autocorrección. Las aplicaciones particulares de la AI incluyen sistemas expertos, reconocimiento de voz y visin artificial.</p>
-<p>•¿Como surgió la Inteligencia Artificial?
-En 1950, el cientifico Alan Turing se preguntaba si las maquinas (calculadoras y computadoras basicamente) eran capaces de pensar.
-Turing se preocupaba principalmente por establecer los limites y las diferencias de la inteligencia natural y la inteligencia artificial, y aunque el termino como tal se aceptó hasta 1956, Turing diseñó la primera computadora capaz de jugar ajedrez.</p>
-<p>•La inteligencia artificial es un conjunto de tecnologías avanzadas que permite a las maquinas sentir, comprender, actuar y aprender.
-El mundo de los negocios no ha vivido una transformación similar a la que trae la inteligencia artificial (que esta reinventando la forma en la que las compañias compiten y se desarrollan) desde la Revolucin Industrial.</p>
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial"target="_blank"><b> •La Inteligencia Artificial (IA)</b></a><br>
-<a href="https://searchdatacenter.techtarget.com/es/definicion/Inteligencia-artificial-o-AI"target="_blank"><b> •Inteligencia artificial, o AI</b></a><br>
-<a href="http://desarrollandoamerica.org/tecnologia/datos-sobre-inteligencia-artificial.html"target="_blank"><b> •Todo lo que debes saber sobre Inteligencia Artificial</b></a><br>
-<a href="https://www.accenture.com/es-es/artificial-intelligence-index"target="_blank"><b> •¿Que es la inteligencia artificial? (IA)? </b></a><br>
-<p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href="https://www.youtube.com/watch?v=VwQxeojVASI"target="_blank"><b>•Video #1 Accenture Artificial Intelligence Applied Intelligence</b></a><br>
-<a href="https://www.youtube.com/watch?v=8lMIdrlIWOQ"target="_blank"><b•>Video #2 ¿Que es la inteligencia artificial? </b></a><br>
-<a href="https://www.youtube.com/watch?v=P0iN1lDYnXM"target="_blank"><b>•Video #3 ConCiencia, La robotica y la inteligencia artificial </b></a><br>
-<a href="https://www.youtube.com/watch?v=tuynU44wZ0c"target="_blank"><b>•Video #4 ¿Que es la inteligencia artificial? </b></a><br>
+
+<p>La inteligencia artificial (IA), es la inteligencia exhibida por máquinas. En ciencias de la computación, una máquina «inteligente» ideal es un agente racional flexible que percibe su entorno y lleva a cabo acciones que maximicen sus posibilidades de éxito en algún objetivo o tarea. Coloquialmente, el término inteligencia artificial se aplica cuando una máquina imita las funciones «cognitivas» que los humanos asocian con otras mentes humanas, como por ejemplo: «aprender» y «resolver problemas</p>
+<p>A medida que las máquinas se vuelven cada vez más capaces, tecnología que alguna vez se pensó que requería de inteligencia se elimina de la definición. Por ejemplo, el reconocimiento óptico de caracteres ya no se percibe como un ejemplo de la «inteligencia artificial» habiéndose convertido en una tecnología común. Avances tecnológicos todavía clasificados como inteligencia artificial son los sistemas de conducción autónomos o los capaces de jugar al ajedrez o al Go</p>
+<p>También existen distintos tipos de percepciones y acciones, que pueden ser obtenidas y producidas, respectivamente, por sensores físicos y sensores mecánicos en máquinas, pulsos eléctricos u ópticos en computadoras, tanto como por entradas y salidas de bits de un software y su entorno software.</p>
+<p>Varios ejemplos se encuentran en el área de control de sistemas, planificación automática, la habilidad de responder a diagnósticos y a consultas de los consumidores, reconocimiento de escritura, reconocimiento del habla y reconocimiento de patrones. Los sistemas de IA actualmente son parte de la rutina en campos como economía, medicina, ingeniería y la milicia, y se ha usado en gran variedad de aplicaciones de software, juegos de estrategia, como ajedrez de computador, y otros videojuegos.</p>
+
+<p><b>Referencias</b></p>
+<a href="https://es.wikipedia.org/wiki/Inteligencia_artificial"target="_blank">Wikipedia</a><br>
+<a href="https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial"target="_blank"Iberdrola</a><br>
+<a href="https://www.xataka.com/robotica-e-ia/que-inteligencia-artificial"target="_blank">Xataka</a><br>
+<a href="https://searchdatacenter.techtarget.com/es/definicion/Inteligencia-artificial-o-AI"target="_blank">Search Data </a><br>
+
+<p><b>Videos Relacionados</b></p>
+<a href="https://www.youtube.com/watch?v=XgDfv5cI2VI"target="_blank">¿Qué es Inteligencia Artificial? </a><br>
+<a href="https://www.muyinteresante.es/tecnologia/articulo/ventajas-y-riesgos-de-la-inteligencia-artificial-651449483429">Ventajas y riesgos de la Inteligencia Artificial - Muy Interesante </a><br>
+<a href="https://www.youtube.com/watch?v=8lMIdrlIWOQ"target="_blank">Inteligencia Artificial: El Futuro De Los Negocios</a><br>
+<a href="https://www.youtube.com/watch?v=IZrDnyHB1t8"target="_blank"><b>Inteligencia Artificial: cómo cambiará el mundo y tu vida</a><br>
+
+
 <center> <img src="https://1.bp.blogspot.com/-YMkx9Z_HKBU/WyRF6wMRrrI/AAAAAAAAV-Q/6N3ha2RW7MAKOBKOtQ_x46Y4WWiQvIvlACLcBGAs/s1600/curso%2Bonline%2Bgratis%2Bmachine%2Blearning.jpg"></center>
 <center> <h1><u>MACHINE LEARNING
 </u></h1></center>
+
 <p>•El aprendizaje automatico o aprendizaje automatizado o aprendizaje de maquinas (del ingles, "Machine Learning") es el subcampo de las ciencias de la computación y una rama de la inteligencia artificial, cuyo objetivo es desarrollar tecnicas que permitan que las computadoras aprendan. De forma más concreta, se trata de crear programas capaces de generalizar comportamientos a partir de una información suministrada en forma de ejemplos.</p>
 <p>• Machine Learning es una disciplina cientifica del ambito de la Inteligencia Artificial que crea sistemas que aprenden automaticamente. Aprender en este contexto quiere decir identificar patrones complejos en millones de datos. La maquina que realmente aprende es un algoritmo que revisa los datos y es capaz de predecir comportamientos futuros. Automaticamente, tambien en este contexto, implica que estos sistemas se mejoran de forma autonoma con el tiempo, sin intervención humana. Veamos como funciona.</p>
 <p> •El machine learning, conocido en español como aprendizaje automatico o aprendizaje de maquina, nació como una idea ambiciosa de la IA en la decada de los 60. Para ser más exactos, fue una subdisciplina de la IA, producto de las ciencias de la computación y las neurociencias.
