@@ -69,22 +69,30 @@ de marcado es regulado por el Consorcio W3C.
  <center> <img src="https://i.blogs.es/544e7d/650_1000_javascript_logo/450_1000.png"></center>
  <center> <h1><u>JAVASCRIPT</u></h1></center>
 
-<p> •JavaScript (abreviado comunmente JS) es un lenguaje de programación interpretado, dialecto del estandar ECMAScript. Se define como orientado a objetos,3 basado en prototipos, imperativo, debilmente tipado y dinamico.</p>
-<p>• JavaScript Es un lenguaje de programación que te permite crear contenido nuevo y dinamico, controlar archivos de multimedia, crear imagenes animadas y muchas otras cosas mas. (Aunque, no todo, pero es increible lo que puedes llegar a hacer con tan solo unas pocas lineas de codigo de JavaScript).</p>
-<p>•JavaScript es un lenguaje de programación que te permite realizar actividades complejas en una pagina web cada vez mas una pagina web hace mas cosas que silo mostrar información estatica como mostrar actualizaciones de contenido en el momento, interactuar con mapas, animaciones graficas 2D/3D etc. </p>
-<p>•JavaScript, es uno de los mas potentes e importantes lenguajes de programación en la actualidad, por tres enfoques claros: es util, practico y esta disponible en cualquier navegador web.
- <p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
- 
-<a href="https://es.wikipedia.org/wiki/JavaScript"target="_blank"><b>•¿Que es Javascript?</b></a><br>
-<a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript"target="_blank"><b>•Definición General</b></a><br>
-<a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript"target="_blank"><b> •Curso de Javascript para principiantes</b></a><br>
-<a href="https://devcode.la/blog/que-es-javascript/"target="_blank"><b>•JavaScript</b></a><br>
+<p> JavaScript es el lenguaje de programación que debes usar para añadir características interactivas a tu Sitio Web,
+(por ejemplo, juegos, eventos que ocurren cuando los botones son presionados o los datos son
+introducidos en los formularios, efectos de estilo dinámicos, animación, y mucho más). 
+Este artículo te ayudará a comenzar con este lenguaje extraordinario y te dará una idea de qué es posible hacer con el.</p>
+<p>JavaScript es un lenguaje de programación que se utiliza principalmente para crear páginas web dinámicas.
+Una página web dinámica es aquella que incorpora efectos como texto que aparece y desaparece,
+Técnicamente, JavaScript es un lenguaje de programación interpretado, por lo que no es necesario compilar los programas para ejecutar animaciones, acciones que se activan al pulsar botones y ventanas con mensajes de aviso al usuario.</p>
+<p>JavaScript se diseñó con una sintaxis similar a C, aunque adopta nombres y convenciones del lenguaje de programación Java. Sin embargo, Java y JavaScript tienen semánticas y propósitos diferentes.
+Todos los navegadores modernos interpretan el código JavaScript integrado en las páginas web. Para interactuar con una página web se provee al lenguaje JavaScript de una implementación del Document Object Model </p>
+<p>Tradicionalmente se venía utilizando en páginas web HTML para realizar operaciones y únicamente en el marco de la aplicación cliente, sin acceso a funciones del servidor. Actualmente es ampliamente utilizado para enviar y recibir información del servidor junto con ayuda de otras tecnologías como AJAX. JavaScript se interpreta en el agente de usuario al mismo tiempo que las sentencias van descargándose junto con el código HTML.</p>
 
-<p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href=" https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G"target="_blank"><b>•Video #1 Curso Basico de Javascript desde 0 Introducción</b></a><br>
-<a href= "https://www.youtube.com/watch?v=riZbwRFMFuw"target="_blank"><b>•Video #2 ¿Que es JavaScript? bien explicado</b></a><br>
-<a href= "https://www.youtube.com/watch?v=ICekhXLhZTw"target="_blank"><b>•Video #3 ¿Por que aprender Javascript?</b></a><br>
-<a href= "https://www.youtube.com/watch?v=ye21CYdhm1s"target="_blank"><b>•Video #4 Introducción a JAVASCRIPT basico desde cero - Parte 1 </b></a><br>
+<p><b>Referencias</b></p>
+ 
+<a href="hhttps://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics"target="_blank"><b>DeveloperMozilla</b></a><br>
+<a href="https://librosweb.es/libro/javascript/capitulo-1.html"target="_blank"><b>LibrosWeb</b></a><br>
+<a href="https://es.wikipedia.org/wiki/JavaScript"target="_blank"><b> Wikipedia</b></a><br>
+<a href="https://desarrolloweb.com/javascript/"target="_blank"><b>DesarrolloWeb</b></a><br>
+
+<p><b>Videos Relacionados</b></p>
+<a href="https://www.youtube.com/watch?v=xnWtGNiG2lg"target="_blank"><b>Curso de Javascript </b></a><br>
+<a href="https://www.youtube.com/watch?v=qx3hoETuLh8"target="_blank"><b>JavaScript: cómo se utiliza en una página web</b></a><br>
+<a href="https://www.youtube.com/watch?v=fju9ii8YsGs"target="_blank"><b>JavaScript Tutorial </b></a><br>
+<a href="https://www.youtube.com/watch?v=seaq4UxKNHU"target="_blank"><b>CURSO COMPLETO DE JAVASCRIPT</b></a><br>
+
 <center> <img src="https://i2.wp.com/keyholesoftware.com/wp-content/uploads/Progressive-Web-Apps.png?fit=700%2C400&ssl=1"></center>
 <center> <h1><u>PROGRESSIVE WEB APPS
 </u></h1></center>
