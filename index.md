@@ -122,9 +122,21 @@ Todos los navegadores modernos interpretan el código JavaScript integrado en la
 <p>También existen distintos tipos de percepciones y acciones, que pueden ser obtenidas y producidas, respectivamente, por sensores físicos y sensores mecánicos en máquinas, pulsos eléctricos u ópticos en computadoras, tanto como por entradas y salidas de bits de un software y su entorno software.</p>
 <p>Varios ejemplos se encuentran en el área de control de sistemas, planificación automática, la habilidad de responder a diagnósticos y a consultas de los consumidores, reconocimiento de escritura, reconocimiento del habla y reconocimiento de patrones. Los sistemas de IA actualmente son parte de la rutina en campos como economía, medicina, ingeniería y la milicia, y se ha usado en gran variedad de aplicaciones de software, juegos de estrategia, como ajedrez de computador, y otros videojuegos.</p>
 
+<center> <h1><u>MACHINE LEARNING
+</u></h1></center>
+</p>El proceso de aprendizaje comienza con observaciones o datos, como ejemplos, experiencia directa o instrucción, para buscar patrones en los datos y tomar mejores decisiones en el futuro en función de los ejemplos que brindamos. El objetivo principal es permitir que las computadoras aprendan automaticamente sin intervención o asistencia humana y ajustar las acciones en consecuencia.</p>
+
+<center> <h1><u> DEEP LEARNIG
+</u></h1></center>
+<p>Aprendizaje profundo en inglés, deep learning es un conjunto de algoritmos de clase aprendizaje automático que intenta modelar abstracciones de alto nivel en datos usando arquitecturas compuestas de transformaciones no lineales múltiples. </p>
+
+<center> <h1><u>RED NEURONAL
+</u></h1></center>
+<p> son un campo muy importante dentro de la Inteligencia Artificial. Inspirándose en el comportamiento conocido del cerebro humano (principalmente el referido a las neuronas y sus conexiones), trata de crear modelos artificiales que solucionen problemas difíciles de resolver mediante técnicas algorítmicas convencionales</p>
+
 <p><b>Referencias</b></p>
 <a href="https://es.wikipedia.org/wiki/Inteligencia_artificial"target="_blank">Wikipedia</a><br>
-<a href="https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial"target="_blank"Iberdrola</a><br>
+<a href="https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial"target="_blank">Iberdrola</a><br>
 <a href="https://www.xataka.com/robotica-e-ia/que-inteligencia-artificial"target="_blank">Xataka</a><br>
 <a href="https://searchdatacenter.techtarget.com/es/definicion/Inteligencia-artificial-o-AI"target="_blank">Search Data </a><br>
 
@@ -135,62 +147,9 @@ Todos los navegadores modernos interpretan el código JavaScript integrado en la
 <a href="https://www.youtube.com/watch?v=IZrDnyHB1t8"target="_blank"><b>Inteligencia Artificial: cómo cambiará el mundo y tu vida</a><br>
 
 
-<center> <img src="https://1.bp.blogspot.com/-YMkx9Z_HKBU/WyRF6wMRrrI/AAAAAAAAV-Q/6N3ha2RW7MAKOBKOtQ_x46Y4WWiQvIvlACLcBGAs/s1600/curso%2Bonline%2Bgratis%2Bmachine%2Blearning.jpg"></center>
-<center> <h1><u>MACHINE LEARNING
-</u></h1></center>
 
-<p>•El aprendizaje automatico o aprendizaje automatizado o aprendizaje de maquinas (del ingles, "Machine Learning") es el subcampo de las ciencias de la computación y una rama de la inteligencia artificial, cuyo objetivo es desarrollar tecnicas que permitan que las computadoras aprendan. De forma más concreta, se trata de crear programas capaces de generalizar comportamientos a partir de una información suministrada en forma de ejemplos.</p>
-<p>• Machine Learning es una disciplina cientifica del ambito de la Inteligencia Artificial que crea sistemas que aprenden automaticamente. Aprender en este contexto quiere decir identificar patrones complejos en millones de datos. La maquina que realmente aprende es un algoritmo que revisa los datos y es capaz de predecir comportamientos futuros. Automaticamente, tambien en este contexto, implica que estos sistemas se mejoran de forma autonoma con el tiempo, sin intervención humana. Veamos como funciona.</p>
-<p> •El machine learning, conocido en español como aprendizaje automatico o aprendizaje de maquina, nació como una idea ambiciosa de la IA en la decada de los 60. Para ser más exactos, fue una subdisciplina de la IA, producto de las ciencias de la computación y las neurociencias.
-Lo que esta rama pretendia estudiar era el reconocimiento de patrones (en los procesos de ingeniería, matematicas, computación, etc.) y el aprendizaje por parte de las computadoras. En los albores de la IA, los investigadores estaban por encontrar una forma en la cual las computadoras pudieran aprender unicamente basandose en datos.</p>
-<p>•El aprendizaje automatico es una aplicación de inteligencia artificial (IA) que proporciona a los sistemas la capacidad de aprender y mejorar automaticamente a partir de la experiencia sin ser programado explicitamente. El aprendizaje automatico se centra en el desarrollo de programas informaticos que pueden acceder a los datos y utilizarlos, aprender por si mismos.
-El proceso de aprendizaje comienza con observaciones o datos, como ejemplos, experiencia directa o instrucción, para buscar patrones en los datos y tomar mejores decisiones en el futuro en función de los ejemplos que brindamos. El objetivo principal es permitir que las computadoras aprendan automaticamente sin intervención o asistencia humana y ajustar las acciones en consecuencia.</p>
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico"target="_blank"><b> •Aprendizaje automático</b></a><br>
-<a href="https://cleverdata.io/que-es-machine-learning-big-data/"target="_blank"><b>•¿Qué es Machine Learning?</b></a><br>
-<a href="https://blog.adext.com/es/machine-learning-guia-completa"target="_blank"><b> •¿Qué es machine learning? (Guía completa para principiantes)</b></a><br>
-<a href="https://www.expertsystem.com/machine-learning-definition/"target="_blank"><b>•Definicion </b></a><br>
-<p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href="https://www.youtube.com/watch?v=wXVkIdF4D4I"target="_blank"><b>•Video  #1 Machine learning (Aprendizaje automatico) </b></a><br>
-<a href="https://www.youtube.com/watch?v=KytW151dpqU"target="_blank"><b>•Video  #2 ¿Que es el Machine Learning? </b></a><br> 
-<a href="https://www.youtube.com/watch?v=oGdmSshtVWw"target="_blank"><b>•Video  #3 ¿Que es Machine Learning?</b></a><br> 
-<a href="https://www.youtube.com/watch?v=V1asbPsvHM4"target="_blank"><b>•Video  #4 Introducción a Machine Learning</b></a><br> 
-<center> <img src="http://solvan.com.mx/wp-content/uploads/2018/03/Deep-Learning-Solvan-1320x564.jpg"></center>
-<center> <h1><u> DEEP LEARNIG</u></h1></center>
-<p> •Aprendizaje profundo (en ingles, deep learning) es un conjunto de algoritmos de clase aprendizaje automatico (en ingles, machine learning) que intenta modelar abstracciones de alto nivel en datos usando arquitecturas compuestas de transformaciones no lineales multiples.
-El aprendizaje profundo es parte de un conjunto mas amplio de metodos de aprendizaje automatico basados en asimilar representaciones de datos. Una observación (por ejemplo, una imagen) puede ser representada en muchas formas (por ejemplo, un vector de pixeles), pero algunas representaciones hacen mas facil aprender tareas de interes (por ejemplo, "¿es esta imagen una cara humana?") sobre la base de ejemplos, y la investigación en este area intenta definir que representaciones son mejores y como crear modelos para reconocer estas representaciones.</p>
-<p>•Desde los años 50 del siglo pasado y hasta hace muy pocos años el terreno habitual de la Inteligencia Artificial (IA) avanzada era mayoritariamente el laboratorio de investigación y la ciencia ficción. A excepción de casos contados, la practica totalidad de sistemas con una inteligencia similar a la humana han aparecido en peliculas futuristicas u obras como las de Isaac Asimov. Sin embargo, este panorama esta cambiando radicalmente en los ultimos años. </p> 
-<p>• El aprendizaje profundo es una superpotencia . Con el puede hacer que una computadora vea , sintetice arte novedoso , traduzca idiomas , haga un diagnostico medico o construya piezas de un automovil que puedan conducir por si mismas . Si eso no es una superpotencia, no se que es.</p>
-<p>•Esta revolucionando la inteligencia artificial a una velocidad de vertigo y ha concitado el interes de grandes compañias gracias a sus prometedores avances, muchos ya una realidad. Se trata, en efecto, del tan traido y llevado tema del Deep Learning, una tecnología de aprendizaje y clasificación basada redes de neuronas artificiales numericas.
-Pero no siempre fue asi. El exito le ha llegado al Deep Learning despues de una larga travesia en el desierto. Si bien la atmosfera de entusiasmo actual puede hacernos creer en  imposibles, un problema sobre el que advierten expertos como Yann LeCun, lo cierto es que esta tecnología todavía es una gran incognita en muchos aspectos.</p>
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="https://es.wikipedia.org/wiki/Aprendizaje_profundoertsystem.com/machine-learning-definition/"target="_blank"><b>•Aprendizaje Profundo</b></a><br>
-<a href="https://www.xataka.com/robotica-e-ia/deep-learning-que-es-y-por-que-va-a-ser-una-tecnologia-clave-en-el-futuro-de-la-inteligencia-artificial"target="_blank"><b>•Deep Learning: qué es y por qué va a ser una tecnología clave en el futuro de la inteligencia artificial</b></a><br>
-<a href="https://www.deeplearning.ai/"target="_blank"><b>•Definicion de Aprendizaje Profundo </b></a><br>
-<a href="https://geographica.gs/es/blog/deep-learning/"target="_blank"><b> •Qué es Deep Learning y cómo funciona </b></a><br>
-<p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href="https://www.youtube.com/watch?v=KytW151dpqU"target="_blank"><b>•Video #1 Deep Learning? </b></a><br>
-<a href="https://www.youtube.com/watch?v=JN6H4rQvwgY"target="_blank"><b>•Video #2 Introduction to Deep Learning</b></a><br>
-<a href="https://www.youtube.com/watch?v=b99UVkWzYTQ"target="_blank"><b>•Video #3 Aprendizaje profundo SIMPLIFICADO</b></a><br>
-<a href="https://www.youtube.com/watch?v=b99UVkWzYTQ"target="_blank"><b>•Video #4 Geoffrey Hinton: The Foundations of Deep Learning</b></a><br>
-<center> <img src="http://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/9569837/redes-neuronales-1-728.jpg?1486993393"></center>
-<center> <h1><u>REDES NEURALES</u></h1></center>
-<p style="    font-weight:normal;"> • Las Redes Neuronales: son un campo muy importante dentro de la Inteligencia Artificial. Inspirándose en el comportamiento conocido del cerebro humano (principalmente el referido a las neuronas y sus conexiones), trata de crear modelos artificiales que solucionen problemas difíciles de resolver mediante técnicas algorítmicas convencionales. </p>
-<p style="    font-weight:normal;">  • Red neuronal: es un sistema compuesto de muchos elementos procesadores simples operando en paralelo, cuya funcion es determinada por la estructura de la red, fuerza en las conexiones y el procesamiento realizado por los elementos computacionales en los nodos.</p>
-<p style="    font-weight:normal;">  •La red neuronal artificial al igual que las redes biológicas aprenden por repetición y cuantos más datos tengamos para entrenar y más veces la entrenemos a la red mejores resultados obtendremos.
-La forma de entender este funcionamiento es mejor con un ejemplo sencillo de una red neuronal capaz de entender el sistema de clasificación final de un profesor que pone dos exámenes los pondera y con ello obtiene la nota final.
-En este ejemplo entrenaremos a la red con las notas de ambos exámenes y su clasificación final y pondremos los pesos de cada entrada a 0,5 como punto de partida.  </p>  
-<p style="    font-weight:normal;">  •Las redes neuronales (también conocidas como sistemas conexionistas) son un modelo computacional basado en un gran conjunto de unidades neuronales simples (neuronas artificiales) de forma aproximadamente análoga al comportamiento observado en los axones de las neuronas en los cerebros biológicos. La información de entrada atraviesa la red neuronal (donde se somete a diversas operaciones) produciendo unos valores de salida.</p>
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="http://avellano.fis.usal.es/~lalonso/RNA/index.htm"target="_blank"><b>•Redes Neuronales</b></a><br>
-<a href="http://www.usmp.edu.pe/publicaciones/boletin/fia/info32/pag4.htm"target="_blank"><b> •Redes Neuronales</b></a><br>
-<a href="http://www.diegocalvo.es/definicion-de-red-neuronal/"target="_blank"><b> •Definición de red neurona</b></a><br>
-<a href="https://es.wikipedia.org/wiki/Red_neuronal_artificial"target="_blank"><b> •Red neuronal artificial</b></a><br>
-<p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href="https://www.youtube.com/watch?v=MRIv2IwFTPg"target="_blank"><b>•Video #1 ¿Qué es una Red Neuronal? Parte 1  La Neurona </b></a><br>
-<a href="https://www.youtube.com/watch?v=uwbHOpp9xkc"target="_blank"><b>•Video #2 ¿Qué es una Red Neuronal? Parte 2 La Red </b></a><br>
-<a href="https://www.youtube.com/watch?"target="_blank"><b>•Video #3 ¿Qué es una Red Neuronal? Parte 3 Backpropagation</b></a><br>
-<a href="https://www.youtube.com/watch?v=xSjlvulOiQY"target="_blank"><b>•Video #4 Como crear nuestra primera red neural </b></a><br>
+
+
 <center> <img src="https://i.ytimg.com/vi/GkAQH-1ezEQ/maxresdefault.jpg"></center>
 <center> <h1><u>CRIPTOMONEDAS</u></h1></center>
 <p style="    font-weight:normal;"> •Criptomoneda : Una criptomoneda, criptodivisa (del inglés cryptocurrency) o criptoactivo es un medio digital de intercambio que utiliza criptografía fuerte para asegurar las transacciones financieras, controlar la creación de unidades adicionales y verificar la transferencia de activos.​ Las criptomonedas son un tipo de divisa alternativa y de moneda digital. Las criptomonedas tienen un control descentralizado, en contraposición a las monedas centralizadas y a los bancos centrales.
