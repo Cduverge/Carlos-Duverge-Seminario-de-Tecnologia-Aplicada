@@ -150,48 +150,49 @@ Todos los navegadores modernos interpretan el código JavaScript integrado en la
 
 
 
-<center> <img src="https://i.ytimg.com/vi/GkAQH-1ezEQ/maxresdefault.jpg"></center>
-<center> <h1><u>CRIPTOMONEDAS</u></h1></center>
-<p style="    font-weight:normal;"> •Criptomoneda : Una criptomoneda, criptodivisa (del inglés cryptocurrency) o criptoactivo es un medio digital de intercambio que utiliza criptografía fuerte para asegurar las transacciones financieras, controlar la creación de unidades adicionales y verificar la transferencia de activos.​ Las criptomonedas son un tipo de divisa alternativa y de moneda digital. Las criptomonedas tienen un control descentralizado, en contraposición a las monedas centralizadas y a los bancos centrales.
-El control descentralizado de cada moneda funciona a través de una base de datos descentralizada, usualmente una cadena de bloques (en inglés blockchain), que sirve como una base de datos de transacciones financieras pública.</p>  
-<p style="    font-weight:normal;">•¿Qué son las criptomonedas?
-Las criptomonedas son monedas virtuales. Pueden ser intercambiadas y operadas como cualquier otra divisa tradicional, pero están fuera del control de los gobiernos e instituciones financieras.
-Existe un gran número de criptodivisas disponibles, todas con sus propias características y aplicaciones. Las que tienen mayor capitalización de mercado son -al menos por ahora- una minoría, que incluye bitcoin, bitcoin cash, ether, litecoin, ripple y dash..</p>  
-<p style="    font-weight:normal;"> •Qué son las criptomonedas
-Una criptomoneda es una divisa digital, diseñada para ser transferida entre personas en transacciones virtuales. Las criptomonedas o criptodivisas existen solo como datos y no como objetos físicos; en realidad, no podrá tener un Bitcoin en la mano o guardar Ethereum en su caja fuerte. Ser titular de un Bitcoin significa que posee el acuerdo colectivo de todos y cada uno de los ordenadores de la red Bitcoin que actualmente le pertenece y, lo más importante, que ha sido creado legítimamente por un minero..</p>  
-<p style="    font-weight:normal;"> •¿Cómo funcionan criptomonedas como el bitcoin?  Las criptomonedas, como el bitcoin o el petro que lanzará próximamente Venezuela, son medios de pago virtuales y, por ende, no se acuñan como monedas ni se imprimen como billetes desde los bancos centrales. Este tipo de divisas se generan mediante complejos procesos de cálculo por computadora, conocidos como blockchain (cadenas de bloques). En los bloques -encadenados entre ellos- están guardadas todas las transacciones realizadas, que son públicamente visibles. 
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="https://es.wikipedia.org/wiki/Criptomoneda"target="_blank"><b> •Criptomoneda</b></a><br>
-<a href="https://www.ig.com/es/invertir-en-criptomonedas/que-son-las-criptomonedas"target="_blank"><b> •¿Qué son las criptomonedas?</b></a><br>
-<a href="https://www.avatrade.es/forex/criptomonedas"target="_blank"><b> •¿Qué son las criptomonedas?</b></a><br>
-<a href="https://www.elcomercio.com/guaifai/funcionan-criptomonedas-bitcoin.html"target="_blank"><b> •¿Cómo funcionan criptomonedas como el bitcoin?
+<center> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEfUAJcXzVElwEuf-WPGkJldj9ji-9ScoDRurcPBuya6dbmBn4A"></center>
+<center> <h1><u>CRIPTOMONEDA</u></h1></center>
+
+<p style="    font-weight:normal;"> Las criptomonedas son monedas virtuales. Pueden ser intercambiadas y operadas como cualquier otra divisa tradicional, pero están fuera del control de los gobiernos e instituciones financieras.Existe un gran número de criptodivisas disponibles, todas con sus propias características y aplicaciones. Las que tienen mayor capitalización de mercado son -al menos por ahora- una minoría, que incluye bitcoin, bitcoin cash, ether, litecoin, ripple y dash.</p>  
+<p style="    font-weight:normal;">Las criptomonedas pueden ser consideradas como una alternativa a las divisas tradicionales, pero en realidad fueron concebidas como una solución de pago completamente convencional. En estos momentos, bastantes tiendas aceptan criptomoneda como forma de pago. Aunque es cierto que su validez como método de pago es fundamental para su valor, las criptomonedas habitualmente se parecen más a materias primas como el oro que al mercado de forex.</p>  
+<p style="    font-weight:normal;"> Minar criptomonedas es el proceso a través del cual las transacciones de criptomoneda se verifican y se ofrecen nuevas unidades. El objetivo de los mineros es recopilar las últimas transacciones en bloques (es decir, conjuntos de transacciones verificadas) y encontrar una solución a un complejo algoritmo. Haciendo esto se obtiene una recompensa: una cantidad fija de criptomoneda. Esta cantidad varía según la criptomoneda en la que se trabaje; la recompensa de bitcoin, por ejemplo, es actualmente de 12,5 bitcoins</p>  
+<p style="    font-weight:normal;">Cadena de bloques es un libro digital compartido que registra todas las transacciones de una criptomoneda determinada entre dos partes. Estas transacciones forman agrupaciones conocidas como "bloques", que a su vez se codifican y se vinculan unos a otros.La información registrada en la cadena de bloques se almacena en millones de ordenadores y está abierta para todo el mundo, en lugar de almancenarse en un solo lugar.</p>
+
+<p><b>ReferenciaS</b></p>
+<a href="https://www.ig.com/es/invertir-en-criptomonedas/que-son-las-criptomonedas"target="_blank">IG</a><br>
+<a href="https://es.wikipedia.org/wiki/Criptomoneda"target="_blank">Wikipedia</a><br>
+<a href="https://www.economiasimple.net/que-son-las-criptomonedas.html"target="_blank">Economía Simple </a><br>
+<a href="https://economipedia.com/definiciones/criptomoneda.html"target="_blank">Economipeia </a><br>
+
 <p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href="https://www.youtube.com/watch?v=GkAQH-1ezEQ"target="_blank"><b>•Video #1 ¿Que Son Las Criptomonedas? ? </b></a><br>
-<a href="https://www.youtube.com/watch?v=FmtyY2hmg04"target="_blank"><b>•Video #2 ¿Cómo funcionan las criptomonedas? ? </b></a><br>
-<a href="https://www.youtube.com/watch?v=ZD4iUMTHTdg"target="_blank"><b>•Video #3  Historia de las criptomonedas  </b></a><br>
-<a href="https://www.youtube.com/watch?v=PWDM1MrhmqQ"target="_blank"><b>•Video #4 ¿Que Son Las Criptomonedas? ? </b></a><br>
-<center> <img src="http://tpc-management.ro/wp-content/uploads/2018/09/Is-Blockchain-Historys-Biggest-Investions.png"></center>
+<a href="https://www.youtube.com/watch?v=20uHQEK-zpI"target="_blank">¿Que Son Las Criptomonedas? </a><br>
+<a href="https://www.youtube.com/watch?v=FmtyY2hmg04"target="_blank">¿Cómo funcionan las criptomonedas?</a><br>
+<a href="https://cnnespanol.cnn.com/video/criptomoneda-ico-oferta-inicial-de-moneda-explicacion-pkg-ramy-zabarah/"target="_blank">¿Cómo se crean las criptomonedas? </a><br>
+<a href="https://www.youtube.com/watch?v=_TSg9W5sE5s"target="_blank">Qué es y cómo funciona una criptomoneda?</a><br>
+
+
+<center> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZNyNYHzJl3MXxbHRTY3OsWEQr8jsq57vajht68cWR0mhf_Ow"></center>
 <center> <h1><u>BLOCKCHAIN</u></h1></center>
-<p style="    font-weight:normal;">  •¿Qué es el blockchain? Entre otras cosas, es una de las palabras de moda en los últimos tiempos. La cadena de bloques es también un concepto que plantea una enorme revolución no solo en nuestra economía, sino en todo tipo de ámbitos.
-Entender lo que es esa cadena de bloques no es tan difícil, y dado que cada vez se utiliza más este concepto hemos querido hacer una especie de curso rápido de introducción al blockchain, para explicar qué es, cómo funciona y cuál es esa revolución que plantea la cadena de bloques.</p>
-<p style="    font-weight:normal;"> • La cadena de bloques, más conocida por el término en inglés blockchain, es un registro único, consensuado y distribuido en varios nodos de una red. En el caso de las criptomonedas, podemos pensarlo como el libro contable donde se registra cada una de las transacciones.
-Su funcionamiento puede resultar complejo de entender si profundizamos en los detalles internos de su implementación, pero la idea básica es sencilla de seguir.</p>
-<p style="    font-weight:normal;">  •Lo primero es contextualizarlo. Blockchain significa “cadena de bloques”, su propio nombre nos será muy ilustrativo más adelante para comprender cómo funciona. Nació como actor secundario en la revolución del bitcoin, ya que se trata de la tecnología o el sistema de codificación de la información que está por detrás de la moneda virtual y que sustenta toda su estructura. Pronto se vio el potencial que tenía por sí misma y la cantidad de aplicaciones que permite en otras áreas más allá de las transacciones financieras, como la administración pública o el Internet de las cosas.</p>
-<p style="    font-weight:normal;"> •Blockchain es una tecnología que permite la transferencia de datos digitales con una codificación muy sofisticada y de una manera completamente segura. Sería como el libro de asientos de contabilidad de una empresa en donde se registran todas las entradas y salidas de dinero; en este caso hablamos de un libro de acontecimientos digitales. </p>
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="https://www.xataka.com/especiales/que-es-blockchain-la-explicacion-definitiva-para-la-tecnologia-mas-de-moda"target="_blank"><b> •¿Qué es el blockchain?</b></a><br>
-<a href="https://www.welivesecurity.com/la-es/2018/09/04/blockchain-que-es-como-funciona-y-como-se-esta-usando-en-el-mercado/"target="_blank"><b> •¿Qué es, cómo funciona y cómo se está usando en el mercado?</b></a><br>
-<a href="https://www.imnovation-hub.com/es/transformacion-digital/que-es-blockchain-y-como-funciona-esta-tecnologia/"target="_blank"><b> •¿Qué es el blockchain y cómo funciona</b></a><br>
-<a href="https://www.imnovation-hub.com/es/transformacion-digital/que-es-blockchain-y-como-funciona-esta-tecnologia/"target="_blank"><b> •Blockchain y el  fin de la centralizacion de los Datos</b></a><br>
+
+<p> Una cadena de bloques o cadena articulada conocida en inglés como blockchain,es una estructura de datos en la que la información contenida se agrupa en conjuntos (bloques) a los que se les añade metainformaciones relativas a otro bloque de la cadena anterior en una línea temporal, de manera que gracias a técnicas criptográficas, la información contenida en un bloque solo puede ser repudiada o editada modificando todos los bloques posteriores.</p>
+<p>Esta propiedad permite su aplicación en entorno distribuido de manera que la estructura de datos blockchain puede ejercer de base de datos pública no relacional que contenga un histórico irrefutable de información.En la práctica ha permitido, gracias a la criptografía asimétrica y las funciones de resumen o hash, la implementación de un registro contable (ledger) distribuido que permite soportar y garantizar la seguridad de dinero digital.</p>
+<p>Siguiendo un protocolo apropiado para todas las operaciones efectuadas sobre la blockchain, es posible alcanzar un consenso sobre la integridad de sus datos por parte de todos los participantes de la red sin necesidad de recurrir a una entidad de confianza que centralice la información. Por ello se considera una tecnología en la que la "verdad" (estado confiable del sistema) es construida, alcanzada y fortalecida por los propios miembros; incluso en un entorno en el que exista una minoría de nodos en la red con comportamiento malicioso (nodos sybil) dado que, en teoría, para comprometer los datos</p>
+<p>Un atacante requeriría de una mayor potencia de cómputo y presencia en la red que el resultante de la suma de todos los restantes nodos combinados. Por las razones anteriores, la tecnología blockchain es especialmente adecuada para escenarios en los que se requiera almacenar de forma creciente datos ordenados en el tiempo, sin posibilidad de modificación ni revisión y cuya confianza pretenda ser distribuida en lugar de residir en una entidad certificadora</p>
+
+<p><b>Referencias</b></p>
+<a href="https://es.wikipedia.org/wiki/Cadena_de_bloques"target="_blank">Wikipedia</a><br>
+<a href="https://www.xataka.com/especiales/que-es-blockchain-la-explicacion-definitiva-para-la-tecnologia-mas-de-moda"target="_blank">Xataka</a><br>
+<a href="https://searchdatacenter.techtarget.com/es/definicion/Blockchain"target="_blank">SearchDAta</a><br>
+<a href="https://www.economiasimple.net/que-es-blockchain-o-cadena-de-bloques.html"target="_blank"Economia Simple</a><br>
 •
 <p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href="https://www.youtube.com/watch?v=o9TSq9L4JPU"target="_blank"><b>•Video #1 ¿Que es el Blockchain ? </b></a><br>
-<a href="https://www.youtube.com/watch?v=hEoYL5j0wYU"target="_blank"><b>•Video #2  ¿Cómo funciona Blockchain? </b></a><br>
-<a href="https://www.youtube.com/watch?v=Yn8WGaO__ak"target="_blank"><b>•Video #3  ¿Que es el Blockchain ? </b></a><br>
-<a href="https://www.youtube.com/watch?v=42v1urqbyo0"_blank"><b>•Video #4  ¿Cómo usar Blockchain? </b></a><br>
+<a href="hhttps://academy.bit2me.com/que-es-cadena-de-bloques-blockchain/"target="_blank">¿Qué es la Cadena de Bloques (Blockchain)?</a><br>
+<a href="https://www.youtube.com/watch?v=16QXXSLYd3Y"target="_blank">Blockchain, definición, para qué sirve</a><br>
+<a href="https://www.youtube.com/watch?v=NKnm0YwE0oc"target="_blank">Blockchain: ¿Qué es?</a><br>
+<a href="https://www.youtube.com/watch?v=z-r-34CYJ_w"target="_blank">'Blockchain': la tecnología que va a cambiar tu vida</a><br>
 
 
-<center> <img src="https://comps.canstockphoto.es/ilustraci%C3%B3n-fondo-negro-cyber-retratos_csp44711082.jpg"></center>
+<center> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHcfKMtQN8QgLGZ5X9WKR0REwEp6QiyMxTuro7PfwVX-PTqiuow"></center>
 
 <center> <h1><u>CYBERSEGURIDAD</u></h1></center>
 
