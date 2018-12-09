@@ -1,16 +1,17 @@
 html>
 <head>
-	<title>Seminario de Tecnologia</title>
+	<p>Seminario de Tecnologia</p>
 	<meta charset=UTF-8"/>   
 </head>
-<center> <img src="https://bbvaopen4u.com/sites/default/files/styles/big-image/public/img/new/115a8_html_strong.jpg?itok=HLsLsafw"></center>
-      
-      <center><h1><u>HTML5</u></h1></center>
+			    
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png"></center>
+<center><h1><u>HTML5</u></h1></center>
 	  
 <body background="Fondo1.jpg" bgcolor="FFCECB">
 <body>
 <body bgcolor="turquoise">
-      <p style="    font-weight:normal;"> •HTML5: HTML5  es la última versión de HTML. El término representa dos conceptos diferentes:
+      <p style="    font-weight:normal;"> 
+	      <P>•HTML5: HTML5  es la última versión de HTML. El término representa dos conceptos diferentes:
 Se trata de una nueva versión de HTML, con nuevos elementos, atributos y comportamientos.
 Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones 
 ser más diversas y de gran alcance. A este ventajas se le llama HTML5.
@@ -18,10 +19,9 @@ ser más diversas y de gran alcance. A este ventajas se le llama HTML5.
       <p> •HTML5 es la quinta revisión importante del lenguaje básico 
 de la World Wide Web, HTML. HTML5 especifica dos variantes de sintaxis para HTML: una «clásica», 
 HTML (text/html), conocida como HTML5, y una variante XHTML conocida como sintaxis XHTML5 que 
-deberá servirse con sintaxis XML (application/xhtml+xml).12 Esta es la primera vez que HTML y 
+deberá servirse con sintaxis XML application/xhtml+xml).Esta es la primera vez que HTML y 
 XHTML se han desarrollado en paralelo.
 </p>
-      
       <p> •Nuevos elementos en HTML5 que establece una serie de elementos y atributos que reflejan 
 el uso típico de los sitios web modernos,también algunos de ellos son técnicamente similares a 
 las etiquetas div y span, pero tienen un significado semántico, como por ejemplo nav
@@ -39,11 +39,12 @@ de marcado es regulado por el Consorcio W3C.
          <a href="https://es.wikipedia.org/wiki/HTML5"target="_blank">•Wikipedia.<a><br>
          <a href="https://www.mastermarketingdigital.com/everriculum/2014/09/19/que-es-html5/"target="_blank">•Máster <a><br>
       
-        <p><b>Videos Relacionados: </b></p>
-          <a href="https://www.youtube.com/watch?v=_93kDSPlKIM"target="_blank"><b> 1- Introducción A HTML5</b></a><br>
-           <a href="https://www.tutellus.com/tecnologia/desarrollo-web/programacion-web-desde-cero-html5-css3-y-javascript-12566"target="_blank"><b> 2- Paginas Web desde Cero, HTML5 </b></a><br>
-           <a href="https://www.youtube.com/watch?v=dntYqEoozR4"target="_blank"><b> 3 Curso de HTML5</b></a><br>
-            <a href=".**](https://www.youtube.com/watch?v=dUaRqfi0AM0"target="_blank"><b> 4-  Tutorial de HTML5  </b></a><br>
+   <p><b>Videos Relacionados :</b></p>
+   <a href="https://www.youtube.com/watch?v=_93kDSPlKIM"target="_blank"> 1- Introducción A HTML5<a><br>
+   <a href="https://www.tutellus.com/tecnologia/desarrollo-web/programacion-web-desde-cero-html5-css3-y-javascript-                12566"target="_blank"> 2- Paginas Web desde Cero, HTML5<a><br>
+   <a href="https://www.youtube.com/watch?v=dntYqEoozR4"target="_blank">3- Curso de HTML5<a><br>
+   <a href="(https://www.youtube.com/watch?v=dUaRqfi0AM0"target="_blank">4-  Tutorial de HTML5  <a><br
+
  
  <center> <img src="https://programarfacil.com/wp-content/uploads/2015/06/css3.png"></center>
  <center> <h1><u>CSS3</u></h1></center>
