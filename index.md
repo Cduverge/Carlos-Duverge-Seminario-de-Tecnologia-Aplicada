@@ -61,10 +61,10 @@ de marcado es regulado por el Consorcio W3C.
 <a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada/"target="_blank">4-WIKIPEDIA<a><br>
 	
   <p><b>Videos Relacionados</b></p>
-  <a href="https://www.youtube.com/watch?v=24gNhTcy6pw"target="_blank"><b>•Video #1 Curso Basico de CSS desde 0 Introduccion</b></a><br>
-  <a href="https:https://www.youtube.com/watch?v=uqkj7HQ7ids"target="_blank"><b>•Video #2 Curso Basico de CSS Selectores </b></a><br>
-  <a href= "https://www.youtube.com/watch?v=BTv5Etachw0"target="_blank"><b>•Video #3 Curso Basico de CSS Unidades de Medida</b></a><br>
-  <a href= "https://www.youtube.com/watch?v=XHkcNr93xoE"target="_blank"><b>•Video #4 Curso Basico de CSS Unidades de Color</b></a><br>
+  <a href="https://www.youtube.com/watch?v=mDAobnj359A"target="_blank"><b>CCS3</b></a><br>
+  <a href="https://www.youtube.com/watch?v=CUxH_rWSI1k"target="_blank"><b>Tutorial de CSS3</b></a><br>
+  <a href= "https://www.youtube.com/watch?v=UeU6iAalGkk"target="_blank"><b>Curso de CSS3 Avanzado </b></a><br>
+  <a href= "https://www.youtube.com/watch?v=pp2aNmvM9Bw"target="_blank"><b>Tutorial práctico de CSS3 </b></a><br>
   
  <center> <img src="https://i.blogs.es/544e7d/650_1000_javascript_logo/450_1000.png"></center>
  <center> <h1><u>JAVASCRIPT</u></h1></center>
