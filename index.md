@@ -1,6 +1,6 @@
-html>
+<html>
 <head>
-	<p>Seminario de Tecnologia</p>
+	<center><p>Seminario de Tecnologia</p></center>
 	<meta charset=UTF-8"/>   
 </head>
 			    
@@ -40,13 +40,13 @@ de marcado es regulado por el Consorcio W3C.
          <a href="https://www.mastermarketingdigital.com/everriculum/2014/09/19/que-es-html5/"target="_blank">•Máster <a><br>
       
    <p><b>Videos Relacionados :</b></p>
-   <a href="https://www.youtube.com/watch?v=_93kDSPlKIM"target="_blank"> 1- Introducción A HTML5<a><br>
-   <a href="https://www.tutellus.com/tecnologia/desarrollo-web/programacion-web-desde-cero-html5-css3-y-javascript-                12566"target="_blank"> 2- Paginas Web desde Cero, HTML5<a><br>
-   <a href="https://www.youtube.com/watch?v=dntYqEoozR4"target="_blank">3- Curso de HTML5<a><br>
-   <a href="(https://www.youtube.com/watch?v=dUaRqfi0AM0"target="_blank">4-  Tutorial de HTML5  <a><br
+   <a href="https://www.youtube.com/watch?v=_93kDSPlKIM"target="_blank"> Introducción A HTML5<a><br>
+   <a href="https://www.tutellus.com/tecnologia/desarrollo-web/programacion-web-desde-cero-html5-css3-y-javascript-                12566"target="_blank"> Paginas Web desde Cero HTML5<a><br>
+   <a href="https://www.youtube.com/watch?v=dntYqEoozR4"target="_blank"> Curso de HTML5<a><br>
+   <a href="https://www.youtube.com/watch?v=dUaRqfi0AM0"target="_blank"> Tutorial de HTML5<a><br>
 
  
- <center> <img src="https://programarfacil.com/wp-content/uploads/2015/06/css3.png"></center>
+ <center> <img src="https://i.pinimg.com/originals/7f/fd/20/7ffd20b2215bbea4531412826ce8399a.jpg"></center>
  <center> <h1><u>CSS3</u></h1></center>
          
 <p>• El CSS5 El nombre hojas de estilo en cascada viene del inglés Cascading Style Sheets, del que toma sus siglas. CSS es un lenguaje usado para definir la presentación de un documento estructurado escrito en HTML o XML (y por extensión en XHTML). El W3C(World Wide Web Consortium) es el encargado de formular la especificación de las hojas de estilo que servirán de estándar para los agentes de usuario o navegadores.</p>
@@ -54,11 +54,11 @@ de marcado es regulado por el Consorcio W3C.
 <p> •Para qué sirve el css 3? El CSS sirve para definir la estética de un sitio web en un documento externo y eso mismo permite que modificando ese documento (la hoja CSS) podamos cambiar la estética entera de un sitio web, el mismo sitio web puede variar totalmente de estética cambiando solo la CSS, sin tocar para nada los documentos HTML o jsp o asp que lo componen.  </p>
 <p>•Es un lenguaje utilizado para dar estética a un documento HTML (colores, tamaños de las fuentes, tamaños de elemento, con css podemos establecer diferentes reglas que indicarán como debe presentarse un documento. Podemos indicar propiedades como el color, el tamaño de la letra, el tipo de letra, si es negrita, si es itálica, también se puede dar forma a otras cosas que no sean letras, como colores de fondo de una página, tamaños de un elemento (por ejemplo el alto y el ancho de una tabla. .</p>
 
-<p><b>Referencia </b></p>
-<a href="https://www.ecured.cu/CSS3#Introducci.C3.B3n_a_CSS3/" target="_blank">1- Ecured<a><br>
-<a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada" target="_blank">2-Desarrollo Web<a><br>
-<a href="http://idesweb.es/temario/css3/" target="_blank">3-IDESWeb<a><br>
-<a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada/" target="_blank">4-WIKIPEDIA.<a><br>
+<p><b>Referencias </b></p>
+<a href="https://www.ecured.cu/CSS3#Introducci.C3.B3n_a_CSS3/"target="_blank">1- Ecured<a><br>
+<a href="https://desarrolloweb.com/manuales/css3.html"target="_blank">2-Desarrollo Web<a><br>
+<a href="http://idesweb.es/temario/css3/"target="_blank">3-IDESWeb<a><br>
+<a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada/"target="_blank">4-WIKIPEDIA<a><br>
 	
   <p><b>Videos Relacionados</b></p>
   <a href="https://www.youtube.com/watch?v=24gNhTcy6pw"target="_blank"><b>•Video #1 Curso Basico de CSS desde 0 Introduccion</b></a><br>
