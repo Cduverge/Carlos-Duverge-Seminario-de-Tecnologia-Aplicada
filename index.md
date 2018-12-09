@@ -82,10 +82,10 @@ Todos los navegadores modernos interpretan el código JavaScript integrado en la
 
 <p><b>Referencias</b></p>
  
-<a href="hhttps://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics"target="_blank"><b>DeveloperMozilla</b></a><br>
-<a href="https://librosweb.es/libro/javascript/capitulo-1.html"target="_blank"><b>LibrosWeb</b></a><br>
-<a href="https://es.wikipedia.org/wiki/JavaScript"target="_blank"><b> Wikipedia</b></a><br>
-<a href="https://desarrolloweb.com/javascript/"target="_blank"><b>DesarrolloWeb</b></a><br>
+<a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics"target="_blank"><b>1-DeveloperMozilla</b></a><br>
+<a href="https://librosweb.es/libro/javascript/capitulo-1.html"target="_blank"><b>2-LibrosWeb</b></a><br>
+<a href="https://es.wikipedia.org/wiki/JavaScript"target="_blank"><b>3-Wikipedia</b></a><br>
+<a href="https://desarrolloweb.com/javascript/"target="_blank"><b>4-DesarrolloWeb</b></a><br>
 
 <p><b>Videos Relacionados</b></p>
 <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg"target="_blank"><b>Curso de Javascript </b></a><br>
@@ -93,25 +93,27 @@ Todos los navegadores modernos interpretan el código JavaScript integrado en la
 <a href="https://www.youtube.com/watch?v=fju9ii8YsGs"target="_blank"><b>JavaScript Tutorial </b></a><br>
 <a href="https://www.youtube.com/watch?v=seaq4UxKNHU"target="_blank"><b>CURSO COMPLETO DE JAVASCRIPT</b></a><br>
 
-<center> <img src="https://i2.wp.com/keyholesoftware.com/wp-content/uploads/Progressive-Web-Apps.png?fit=700%2C400&ssl=1"></center>
+<center> <http://www.globalmediainsight.com/blog/wp-content/uploads/2016/10/progressive-web-apps.jpg"></center>
 <center> <h1><u>PROGRESSIVE WEB APPS
 </u></h1></center>
-<p> •Progressive Web Apps : Una aplicación web progresiva (PWA, por sus siglas en ingles) es una aplicación web que utiliza capacidades web modernas para brindar a los usuarios una experiencia similar a la aplicación. Estas aplicaciones cumplen con ciertos requisitos , se implementan en servidores, son accesibles a través de URL e indexadas por los motores de búsqueda.
-Esto puede funcionar junto con Cordova para proporcionar multiples destinos de implementación para todos sus usuarios. Puede implementar su aplicación como PWA, asi como aplicación nativa, y aprovechar ambos canales.</p>
-<p>•Las aplicaciones web progresivas ( PWA, por sus siglas en ingles ) son aplicaciones web que se cargan como paginas web o sitios web normales, pero pueden ofrecer al usuario funcionalidades como trabajar sin conexión , notificaciones push y acceso al hardware del dispositivo tradicionalmente disponible solo para aplicaciones moviles nativas . Los PWA combinan la flexibilidad de la web con la experiencia de una aplicación movil nativa .</p>
-<p>•Progressive web apps (o aplicaciones web progresivas), es un termino que se da a una nueva generación de aplicaciones que incrementan su funcionalidad, conforme las capacidades del dispositivo en el que se ejecutan, incrementan, de ahi la palabra progresiva.</p>
-<p>•El termino Progressive Web App fue realizado por Alex Russell y Frances Berriman. En las palabras de Alex:
-Las aplicaciones web progresivas son solo sitios web que tomaron todas las vitaminas adecuadas.</p>
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="https://ionicframework.com/docs/developer-resources/progressive-web-apps/"target="_blank"><b>•Aplicaciones Web Progresivas</b></a><br>
-<a href="https://en.wikipedia.org/wiki/Progressive_web_applications"target="_blank"><b> •Aplicaciones web progresivas</b></a><br>
-<a href="https://codigofacilito.com/articulos/progressive-apps"target="_blank"><b>•Progressive web apps</b></a><br>
-<a href="https://medium.freecodecamp.org/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2"target2="_blank"><b>•¿Qué es una aplicación web progresiva? ¿Por qué necesitamos uno? ¿Cómo podemos construir uno?</b></a><br>
+
+<p> Las Progressive Web Apps son experiencias que combinan lo mejor de la Web y lo mejor de las apps. Están disponibles para los usuarios a partir de la primera visita en una pestaña del navegador y no requieren instalación. A medida que el usuario compila progresivamente una relación con la app con el paso del tiempo, se hace más y más poderosa.</p>
+<p> Se carga rápidamente, incluso con redes débiles, envía notificaciones push relevantes, tiene un ícono en la pantalla principal y se carga como experiencia de pantalla completa y de primer nivel.Progressive web apps (o aplicaciones web progresivas), es un término que se da a una nueva generación de aplicaciones que incrementan su funcionalidad, conforme las capacidades del dispositivo en el que se ejecutan, incrementan, de ahí la palabra progresiva.</p>
+<p>La siguiente parte del nombre web, hace referencia a que se construyen utilizando estándares de desarrollo web, algunos ya conocidos como HTML, CSS y javaScript; y una nueva generación de APIs de javaScript. La parte final app es porque las Progressive Web Apps se comportan como aplicaciones web nativas, pero usan tecnologías web.</p>
+<p>En términos muy simplistas, son páginas web que se comportan como aplicaciones nativas. Es un oración muy simple, pero también muy profunda. Las apps nativas (iOs, Android por ejemplo), históricamente han tenido una serie de ventajas sobre las páginas web, ¿como cuáles? Almacenamiento local, ejecutarse offline, notificaciones push, performance, acceso a hardware, acceso al homescreen del dispositivo,entre otros.</p>
+
+<p><b>Referencias</b></p>
+<a href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es"target="_blank"><b>1- DevelopersGoogle</b></a><br>
+<a href="https://codigofacilito.com/articulos/progressive-apps"target="_blank"><b>2- Codigo Facilito </b></a><br>
+<a href="https://www.tu-app.net/blog/progressive-web-app/"target="_blank"><b>3- Tu App.Net</b></a><br>
+<a href="https://medium.com/williambastidasblog/aplicaciones-web-progresivas-561af2151c9c"target2="_blank"><b>4- Medium</b></a><br>
+
 <p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href="https://www.youtube.com/watch?v=O0sw5qZtrJE"target="_blank"><b>•Video #1 Web Apps Que son y como hacer una facilmente</b></a><br>
-<a href="https://www.youtube.com/watch?v=QSb4VZnF9q4"target="_blank"><b>•Video #2 PWA Progressive Web Apps, Introducción a las Aplicaciones Web Progresivas</b></a><br>
-<a href="https://www.youtube.com/watch?v=rLvPaPh8kxc"target="_blank"><b>•Video #3  Como crear un Progressive Web App ?</b></a><br>
-<a href="https://www.youtube.com/watch?v=FAqA3-YIRpw"target="_blank"><b>•Video #4 Las aplicaciones PWA son el FUTURO</b></a><br>
+<a href="https://www.youtube.com/watch?v=tJZhocm9q0w"target="_blank"><b>WEB APP PROGRESIVA (la web del FUTURO)</b></a><br>
+<a href="https://www.youtube.com/watch?v=tJZhocm9q0w"target="_blank"><b>PWA - ¿Que son las aplicaciones web progresivas PWA? </b></a><br>
+<a href="https://www.youtube.com/watch?v=yYOqbHfMSYU"target="_blank"><b>Desarrollo App Web Progresiva (PWA) y Aplicaciones Móvil</b></a><br>
+<a href="https://developers.google.com/web/progressive-web-apps/"target="_blank"><b>Progressive Web Apps | Web | Google Developers</b></a><br>
+
 <center> <img src="https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/566560d25bafe8a163dc683a/ia.jpg"></center>
 <center> <h1><u>INTELIGENCIA ARTIFICIAL
 </u></h1></center>
