@@ -459,7 +459,7 @@ La realidad virtual, la aumentada y la mixta brinda una experiencia sin igual de
  <p style="    font-weight:normal;">Carlos Jonathan Duverge Jaquez</p>  
 <p style="    font-weight:normal;"> Seminario de Tecnologia Aplicada</p>
 
-<a href="https://github.com/Cduverge/Carlos-Duverge-Seminario-de-Tecnologia-Aplicada.io" target="_blank">Mi repositorio!</a>
+<a href="https://github.com/Cduverge/Cduverge.github.io-Carlos-Duverge-Seminario-de-Tecnologia-Aplicada/blob/master/index.md" target="_blank">Repositorio</a>
 
 </body>
 </html>
