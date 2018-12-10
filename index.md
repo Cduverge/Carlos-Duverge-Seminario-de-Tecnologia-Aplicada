@@ -382,7 +382,7 @@ Las computadoras de hoy y, por lo tanto, la internet– dependen casi totalmente
 
 <center> <img src="http://eyeopener.accutome.com/wp-content/uploads/2018/03/3D-Printing-1000x567.jpg"></center>
       
-      <center><h1><u>3D Printing</u></h1></center>
+   <center><h1><u>3D Printing</u></h1></center>
 
  <p>Una impresora 3D es una máquina capaz de realizar réplicas de diseños en 3D, creando piezas o maquetas volumétricas a partir de un diseño hecho por ordenador, descargado de internet o recogido a partir de un escáner 3D. Surgen con la idea de convertir archivos de 2D en prototipos reales o 3D. Comúnmente se ha utilizado en la prefabricación de piezas o componentes, en sectores como la arquitectura y el diseño industrial. En la actualidad se está extendiendo su uso en la fabricación de todo tipo de objetos, modelos para vaciado, piezas complicadas, alimentos, prótesis médicas, ya que la impresión 3D permite adaptar cada pieza fabricada a las características exactas de cada paciente, etc.</p>
 
@@ -417,9 +417,9 @@ Las computadoras de hoy y, por lo tanto, la internet– dependen casi totalmente
 <a href="https://www.youtube.com/watch?v=ffkzebyYgIg"target="_blank">IMPRESORAS 3D</a><br>
 
 
-<center> <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1MtiE1RbSmP397x7I2ZZ6-BTzjo60w06FzGXdf-0vQUcBoKLJw"></center>
+<center> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1MtiE1RbSmP397x7I2ZZ6-BTzjo60w06FzGXdf-0vQUcBoKLJw"></center>
       
-      <center><h1><u>TECNOLOGIA G5</u></h1></center>
+  <center><h1><u>TECNOLOGIA G5</u></h1></center>
  <p>Las redes de telecomunicaciones de la próxima generación (5G) llegarán al mercado hacia 2020. Más allá de las mejoras en la velocidad, se espera que la tecnología 5G desate todo un ecosistema del Internet de las Cosas masivo en el que las redes pueden satisfacer las necesidades de comunicación de miles de millones de dispositivos conectados, con un equilibrio justo entre velocidad, latencia y costo. La guía de preguntas que se encuentra a continuación brindará una buena introducción a la tecnología 5G: en qué difiere de la 4G LTE actual, cuáles serán los nuevos casos de uso del Internet de las Cosas y cómo se beneficiarán los operadores de redes móviles con este cambio.</p>
 
 
