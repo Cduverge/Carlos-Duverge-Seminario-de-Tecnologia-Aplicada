@@ -186,7 +186,7 @@ Todos los navegadores modernos interpretan el código JavaScript integrado en la
 <a href="https://www.economiasimple.net/que-es-blockchain-o-cadena-de-bloques.html"target="_blank">Economia Simple</a><br>
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href="hhttps://academy.bit2me.com/que-es-cadena-de-bloques-blockchain/"target="_blank">¿Qué es la Cadena de Bloques (Blockchain)?</a><br>
+<a href="https://academy.bit2me.com/que-es-cadena-de-bloques-blockchain/"target="_blank">¿Qué es la Cadena de Bloques (Blockchain)?</a><br>
 <a href="https://www.youtube.com/watch?v=16QXXSLYd3Y"target="_blank">Blockchain, definición, para qué sirve</a><br>
 <a href="https://www.youtube.com/watch?v=NKnm0YwE0oc"target="_blank">Blockchain: ¿Qué es?</a><br>
 <a href="https://www.youtube.com/watch?v=z-r-34CYJ_w"target="_blank">'Blockchain': la tecnología que va a cambiar tu vida</a><br>
@@ -439,9 +439,9 @@ Las computadoras de hoy y, por lo tanto, la internet– dependen casi totalmente
 
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
-<a href="https://www.gemalto.com/latam/telecom/inspiracion/5g"target="_blank">Gemalto</a><br>
+<a href="https://www.gemalto.com/latam/telecom/inspiracion/5g"target="_blank">Que es 5G</a><br>
 <a href="https://marketing4ecommerce.net/tecnologia-5g-conceptos-basicos-sobre-el-nuevo-estandar-de-la-red-movil/"target="_blank">Tecnologia 5g</a><br>
-<a href="Qué son las redes 5G y cómo funcionan"target="_blank">Que son Las tecnologias 5g</a><br>
+<a href="https://www.youtube.com/watch?v=DDizZizSSEs"target="_blank">Que son Las tecnologias 5g</a><br>
 <a href="https://www.youtube.com/watch?v=-_Z_rk7Xm4Y"target="_blank">Tecnología 5G y su uso</a><br>
 
 
