@@ -322,140 +322,137 @@ La aplicación en la medicina la encontramos en la simulación virtual del cuerp
 
 
 
-<center> <img src="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0_kkSaJD6mWz-aWUKvCwaHoJfoXHxtf8Q8J_RfNqhD_45AHxJw"></center>
-
+<center> <img src="https://www.analyticsinsight.net/wp-content/uploads/2017/12/iot1121.jpg"></center>
 <center> <h1><u>INTERNET DE LAS COSAS</u></h1></center>
 
- <p style="    font-weight:normal;"> •La internet de las cosas (IoT, por sus siglas en inglés) es un sistema de dispositivos de computación interrelacionados, máquinas mecánicas y digitales, objetos, animales o personas que tienen identificadores únicos y la capacidad de transferir datos a través de una red, sin requerir de interacciones humano a humano o humano a computadora.</p>
+ <p>La internet de las cosas (IoT, por sus siglas en inglés) es un sistema de dispositivos 
+	de computación interrelacionados, máquinas mecánicas y digitales, objetos, animales
+	o personas que tienen identificadores únicos y la capacidad de transferir datos a través 
+	de una red, sin requerir de interacciones humano a humano o humano a computadora.</p>
 
- <p style="    font-weight:normal;">   •Internet de las Cosas es una red de objetos físicos –vehículos, máquinas, electrodomésticos y más que utiliza sensores y API para conectarse e intercambiar datos por internet.</p>
-
-
- <p style="    font-weight:normal;"> • IOT:   Es un término del que escuchamos hablar constantemente. Internet de las cosas, Internet of Things o IoT por sus siglas en ingles, es un concepto un poco abstracto pero que ha estado ganando bastante popularidad en los últimos meses. La idea que intenta representar queda bastante bien ilustrada por su nombre, cosas cotidianas que se conectan al Internet, pero en realidad se trata de mucho más que eso. </p>
-
-
- <p style="    font-weight:normal;">   •IOT :  El término “Internet de las cosas” (IoT – Internet of things) hace referencia a todos aquellos objetos o dispositivos del ámbito cotidiano que se encuentran conectados a Internet y que cuentan con algún tipo de inteligencia.   </p>
+ <p>Una cosa, en la internet de las cosas, puede ser una persona con un implante de monitor de corazón, un animal de granja con un transpondedor de biochip, un automóvil que tiene sensores incorporados para alertar al conductor cuando la presión de los neumáticos es baja, o cualquier otro objeto natural o artificial al que se puede asignar una dirección IP y darle la capacidad de transferir datos a través de una red.</p>
 
 
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="https://searchdatacenter.techtarget.com/es/definicion/Internet-de-las-cosas-IoT"target="_blank"><b> •Internet de las cosas (IoT)</b></a><br>
-<a href="https://www.sap.com/latinamerica/trends/internet-of-things.html"target="_blank"><b> •¿Qué es Internet de las Cosas (IoT)?</b></a><br>
-<a href="https://hipertextual.com/archivo/2014/10/internet-cosas/"target="_blank"><b> •¿Qué es y cómo funciona el Internet de las cosas?</b></a><br>
-<a href="https://www.fundacionctic.org/sat/articulo-que-es-el-internet-de-las-cosas"target="_blank"><b> •¿Qué es el Internet de las cosas?</b></a><br>
+ <p>IoT ha evolucionado desde la convergencia de tecnologías inalámbricas, sistemas micro-electromecánicos (MEMS), microservicios e internet. La convergencia ha ayudado a derribar las paredes de silos entre la tecnología operativa (OT) y la tecnología de la información (TI), permitiendo que los datos no estructurados generados por máquinas sean analizados para obtener información que impulse mejoras.</p>
+
+
+ <p>Kevin Ashton, cofundador y director ejecutivo del Auto-ID Center de MIT, mencionó por primera vez la internet de las cosas en una presentación que hizo a Procter & Gamble en 1999. He aquí cómo Ashton explica el potencial de la internet de las cosas.
+Las computadoras de hoy y, por lo tanto, la internet– dependen casi totalmente de los seres humanos para obtener información. Casi todos los aproximadamente 50 petabytes (un petabyte son 1.024 terabytes) de datos disponibles en internet fueron capturados y creados por seres humanos escribiendo, presionando un botón de grabación, tomando una imagen digital o escaneando un código de barras. </p>
+
+
+<p><b>Referencias</b></p>
+<a href="https://searchdatacenter.techtarget.com/es/definicion/Internet-de-las-cosas-IoT"target="_blank">Searchdatacenter</a><br>
+<a href="https://es.wikipedia.org/wiki/Internet_de_las_cosas"target="_blank">Wikipedia</a><br>
+<a href="https://www.domodesk.com/221-a-fondo-que-es-iot-el-internet-de-las-cosas.html"target="_blank">Domodesk</a><br>
+<a href="https://www.ibm.com/internet-of-things/es-es/resources/library/what-is-iot/"target="_blank">Ibm</a><br>
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
+<a href="https://actualidad.rt.com/actualidad/238956-internet-cosas-conectar-todo-dispositivos-red-iot"target="_blank">IOT TECNOLOGIA</a><br>
+<a href="https://www.youtube.com/watch?v=FrcmgTs7buY"target="_blank">¿Qué es el Internet de las Cosas?</a><br>
+<a href="https://www.youtube.com/watch?v=VTs5y1QlEtk"target="_blank">Donde llegará el Internet de las cosas</a><br>
+<a href="https://www.youtube.com/watch?v=R-qYLcA42Xg"target="_blank">Por qué es tan importante?</a><br>
 
-<a href="https://www.youtube.com/watch?v=9VkVjsoNZxU"target="_blank"><b>•Video  1- Internet de las Cosas </b></a><br>
-<a href="https://www.youtube.com/watch?v=gV7l2YOSOQ4"target="_blank"><b>•Video  2- Internet de las cosas (IoT)  ¿En qué consiste y cómo funciona? </b></a><br>
-<a href="https://www.youtube.com/watch?v=g1j-Pta2QAs"target="_blank"><b>•Video  3- INTERNET OF THINGS - Tu propio Servidor IoT </b></a><br>
-<a href="https://www.youtube.com/watch?v=lPlRo2hhhMs"target="_blank"><b>•Video  4-  IOT PROJECTS- Tu propio Servidor IoT </b></a><br>
 
-<center> <img src="https://tecnologia.usfx.bo/wp-content/uploads/2017/12/LOGO-MECATR%C3%93NICA.jpg"></center>
-
+<center> <img src="https://wordpress-utec.s3.amazonaws.com/uploads/sites/30/2016/07/Mec_Industrial.jpg"></center>
 <center> <h1><u>MECATRONICA</u></h1></center>
 
- <p style="    font-weight:normal;"> •Mecatrónica : un término que puede parecer sacado de películas de ciencia ficción. Intentaremos explicarlo de manera sencilla como siempre. Qué es, qué puede ofrecernos, para qué sirve, etc.</p>
+ <p>La ingeniería mecatrónica es una disciplina que sirve para diseñar robots y a los productos que involucren a sistema de control para el diseño de productos o procesos inteligentes, lo cual busca crear maquinaria más compleja para facilitar las actividades del ser humano a través de procesos electrónicos en la industria mecánica, principalmente. Esta disciplina une la ingeniería mecánica, ingeniería electrónica, ingeniería de control e ingeniería informática</p>
 
- <p style="    font-weight:normal;"> •La Mecatrónica es la disciplina que agrega Electricidad, Electrónica, Informática y Control al diseño, fabricación y mantenimiento de dispositivos y máquinas propios de la Ingeniería Mecánica. Surgió en la década de los ochenta, con la aplicación generalizada del microprocesador en el ámbito tecnológico..</p>
-
-
- <p style="    font-weight:normal;">•¿Para que sirve la Mecatronica?
-
-La mecatrónica nace para suplir tres necesidades latentes; la primera, encaminada a automatizar la maquinaría y lograr así procesos productivos ágiles y confiables; la segunda crear productos inteligentes, que respondan a las necesidades del mundo moderno; y la tercera, por cierto muy importante, armonizar entre los componentes mecánicos y electrónicos de las máquinas, ya que en muchas ocasiones, era casi imposible lograr que tanto mecánica como electrónica manejaran los mismos términos y procesos para hacer o reparar equipos.</p>
+ <p>Un consenso común es describir a la mecatrónica como una disciplina integradora de las áreas de mecánica, electrónica e sistemas cuyo objetivo es proporcionar mejores productos, procesos y sistemas industriales. La mecatrónica no es, por tanto, una nueva rama de la ingeniería, sino un concepto recientemente desarrollado que enfatiza la necesidad de integración y de una interacción intensiva entre diferentes áreas de la ingeniería.</p>
 
 
-<p style="    font-weight:normal;"> •La mecatrónica es una disciplina que une la ingenieria mecánica, ingenieria electronica, ingenieria de control e ingenieria informática, y sirve para diseñar y desarrollar productos que involucren sistemas de control para el diseño de productos o procesos inteligentes, lo cual busca crear maquinaria más compleja para facilitar las actividades del ser humano a través de procesos electrónicos en la industria mecánica, principalmente. Debido a que combina varias ingenierías en una sola, su punto fuerte es la versatilidad.</p>
+ <p>Con base en lo anterior, se puede hacer referencia a la definición propuesta por J. A. Rietdijk: "mecatrónica es la combinación sinérgica de la ingeniería mecánica de precisión, de la electrónica, del control automático y de los sistemas para el diseño de productos y procesos", la cual busca crear maquinaria más compleja para facilitar las actividades del ser humano a través de procesos electrónicos en la industria mecánica principalmente. Existen, claro está, otras versiones de esta definición, pero ésta claramente enfatiza que la mecatrónica está dirigida a las aplicaciones y al diseño.</p>
+
+
+<p>La mecatrónica nace para suplir tres urgentes necesidades latentes; la primera, encaminada a automatizar la maquinaría y así lograr procesos productivos ágiles y confiables; la segunda crear productos inteligentes, que respondan a las necesidades del mundo moderno; y la tercera, por cierto muy importante, armonizar entre los componentes mecánicos y electrónicos de las máquinas, ya que en muchas ocasiones, era casi imposible lograr que tanto mecánica como electrónica manejaran los mismos términos y procesos para hacer o reparar equipos.</p>
 
 
 <p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="http://www.areatecnologia.com/electronica/mecatronica.html"target="_blank"><b> •La Mecatrónica</b></a><br>
-<a href="https://www.itba.edu.ar/id/laboratorios/mecatronica/"target="_blank"><b> •Mecatronica</b></a><br>
-<a href="https://sites.google.com/site/mecatronicaati/-para-que-sirve-la-mecatronica"target="_blank"><b> •¿Para que sirve la Mecatronica?</b></a><br>
-<a href="http://www.castconalepbc.edu.mx/index.php/cursos/cursos-especializados?layout=edit&id=85"target="_blank"><b> •¿Que es la Mecatronica?</b></a><br>
+<a href="https://es.wikipedia.org/wiki/Ingenier%C3%ADa_mecatr%C3%B3nica"target="_blank">Wikipedia</a><br>
+<a href="http://www.areatecnologia.com/electronica/mecatronica.html"target="_blank">Area Tecnologica</a><br>
+<a href="https://www.itba.edu.ar/id/laboratorios/mecatronica/"target="_blank">ITBA</a><br>
+<a href="https://definicion.mx/mecatronica/"target="_blank">Definicion en Mecatronica</a><br>
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
+<a href="https://www.youtube.com/watch?v=zYo8z2r3mnY"target="_blank">¿Qué es la mecatronica?</b></a><br>
+<a href="http://ingenierobeta.com/ingenieria-mecatronica/"target="_blank">TODO SOBRE LA INGENIERÍA MECATRÓNICA</a><br>
+<a href="https://www.youtube.com/watch?v=axA2hLokzls"target="_blank">Para que sirve La mecatronica></a><br>
+<a href="https://mecatronica.wordpress.com/que-es-mecatronica/"target="_blank">Cosas de mecatronica></a><br>
 
-<a href=" https://www.youtube.com/watch?v=uhgTgSHJXU8"target="_blank"><b>•Video 1- ¿Qué es la mecatronica? </b></a><br>
-<a href="https://www.youtube.com/watch?v=zYo8z2r3mnY"target="_blank"><b>•Video  2- ¿Qué es la mecatronica? </b></a><br>
-<a href="https://www.youtube.com/watch?v=R0TjiS0_Yco"target="_blank"><b>•Video  3-  La mecatronica? </b></a><br>
-<a href="https://www.youtube.com/watch?v=-5Bz2pdgIJI"target="_blank"><b>•Video  4- La mecatronica? </b></a><br>
 
-
-<center> <img src=" https://cerasis.com/wp-content/uploads/2014/12/3d-printing-in-manufacturing1.jpg"></center>
+<center> <img src="http://eyeopener.accutome.com/wp-content/uploads/2018/03/3D-Printing-1000x567.jpg"></center>
       
-      <center><h1><u>3D PRINTING</u></h1></center>
+      <center><h1><u>3D Printing</u></h1></center>
 
- <p style="    font-weight:normal;"> •La impresión en 3D es uno de los diversos procesos en los que el material se une o se solidifica bajo el control informático para crear un objeto tridimensional ,  con material que se agrega (como moléculas de líquido o granos de polvo que se fusionan). La impresión 3D se utiliza tanto en la creación rápida de prototipos como en la fabricación aditiva . Los objetos pueden ser de casi cualquier forma o geometría y, por lo general, se producen utilizando datos de modelos digitales a partir de un modelo 3D . Hay muchas tecnologías diferentes , utilizadas en el proceso de impresión 3D. El más común  por número de usuarios que se fusionan modelado de depósitos(FDM). Por lo tanto, a diferencia del material extraído de un stock en el proceso de mecanizado convencional, la impresión 3D o Fabricación Aditiva construye un objeto tridimensional a partir de un modelo de diseño asistido por computadora (CAD), generalmente mediante la adición sucesiva de capa por capa. </p>
-
-
- <p style="    font-weight:normal;"> •La impresión 3D, también conocida como manufactura por adición, es un proceso por el cual se crean objetos físicos colocando un material por capas en base a un modelo digital. Todos los procesos de impresión 3D requieren que el software, el hardware y los materiales trabajen en conjunto.
-
-La tecnología de impresión 3D puede utilizarse para crear todo tipo de cosas, desde prototipos y piezas simples hasta productos finales altamente técnicos, como piezas para aeronaves (Inglés), edificios ecológicos, implantes médicos que pueden salvar vidas e incluso órganos artificiales que se producen con capas de células humanas. </p>
-
- <p style="    font-weight:normal;"> •La impresión 3D en la actualidad es una realidad que ya ha escapado de los laboratorios de ensayo, y si bien todavía no han alcanzado el status de presencia que ostentan las impresoras de chorro de tinta o láser, lo cierto es que ese es el camino que tomarán este tipo de dispositivos, cuando su valor y los costes de operación bajen a precios que pueda pagar el usuario de a pie, seguramente comenzaremos a verlas al lado de cualquier PC en cualquier barrio de la ciudad.
- 
-Pero el campo se extiende mucho más allá de esto, ya que también podemos encontrar implementaciones de la tecnología de impresión 3D en ámbitos como el automotor, en la construcción de prototipos, lo que significa un ahorro importante debido a la reducción en los tiempos de modelado y en materiales, en la industria de la joyería, el calzado, el diseño industrial. También en la ingeniería y el sector aeroespacial las impresoras 3D encuentran un lugar en la elaboración de piezas, ya que también podrían usarse para la elaboración de elementos en el espacio. Como pudimos ver, la impresión 3D ofrece aplicaciones que con el tiempo irán convirtiéndola en un dispositivo de uso cotidiano. </p>
+ <p>Una impresora 3D es una máquina capaz de realizar réplicas de diseños en 3D, creando piezas o maquetas volumétricas a partir de un diseño hecho por ordenador, descargado de internet o recogido a partir de un escáner 3D. Surgen con la idea de convertir archivos de 2D en prototipos reales o 3D. Comúnmente se ha utilizado en la prefabricación de piezas o componentes, en sectores como la arquitectura y el diseño industrial. En la actualidad se está extendiendo su uso en la fabricación de todo tipo de objetos, modelos para vaciado, piezas complicadas, alimentos, prótesis médicas, ya que la impresión 3D permite adaptar cada pieza fabricada a las características exactas de cada paciente, etc.</p>
 
 
- <p style="    font-weight:normal;">   •Una impresora 3D es una máquina capaz de imprimir figuras con volumen a partir de un diseño hecho por ordenador. Con volumen quiere decir que tiene ancho, largo y alto.
+ <p>La impresión 3D en el sentido original del término se refiere a los procesos en los 
+	que secuencialmente se acumula material en una cama o plataforma por diferentes 
+	métodos de fabricación, tales como polimerización, inyección de aporte, inyección 
+	de aglutinante, extrusión de material, cama de polvo, laminación de metal, depósito metálico. </p>
 
- Una impresora 3D lo que realmente hace es producir un diseño 3D creado con el ordenador en un modelo 3D físico (real). Es decir, si hemos diseñado en nuestro ordenador, por ejemplo, una simple taza de café por medio de cualquier programa CAD (Diseño Asistido por Computador), podremos imprimirla en la realidad por medio de la impresora 3D y obtener un producto físico que sería la propia taza de café</p>
+ <p>En una piscina con resina en estado líquido y curándola con laser de luz ultravioleta. Se trata de fotopolímeros de base acrílica con diferentes propiedades físico-mecánicas: variedad de flexibilidades, elongación a rotura, resistencia, colores, etc. Se caracteriza por su precisión y acabado de superficie, lo que hace que su aplicación en matricería resulte muy adecuada. Dependiendo del polímero usado, las piezas pueden estar totalmente curadas al terminar la impresión y no hay tiempo de espera, aunque hay que retirar soportes de impresión con un chorro de agua a presión. Esta tecnología fue la primera en lograr inyectar dos materiales diferentes en una misma impresión, permitiendo la creación de materiales digitales con propiedades "a la carta". En otros polímeros fotosensibles, al acabar el proceso de impresión, debe esperarse un tiempo de curado para que el material acabe de polimerizarse y tenga las mejores características mecánicas y químicas. Después ya se podría manipular la pieza.</p>
 
 
-<p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="https://en.wikipedia.org/wiki/3D_printing"target="_blank"><b> •3D printing</b></a><br>
-<a href="https://latinoamerica.autodesk.com/solutions/3d-printing"target="_blank"><b> •¿Qué es la impresión 3D?</b></a><br>
-<a href="https://tecnologia-informatica.com/impresoras-3d-que-son-como-funcionan-impresion-3d/"target="_blank"><b> •Impresoras 3D ¿Qué son? ¿Cómo funcionan? Todo sobre impresión 3D</b></a><br>
-<a href="http://www.areatecnologia.com/informatica/impresoras-3d.html"target="_blank"><b> •¿Qué es una Impresora 3D?</b></a><br>
+ <p> La posibilidad de imprimir objetos sólidos tridimensionales es algo largamente esperado no 
+	sólo por aquellos poco diestros para el uso del cincel y el martillo, sino que es una 
+	tecnología buscada durante años por diversos fabricantes e investigadores que intentaban 
+	implementar un método que permita la construcción de los más variados objetos como implantes
+	médicos, piezas de arquitectura y demás elementos en forma sencilla y barata. Afortunadamente
+	lo han encontrado en la impresión 3D.</p>
 
+
+<p><b>Referencias</b></p>
+<a href="https://es.wikipedia.org/wiki/Impresora_3D"target="_blank">Wikipedia</a><br>
+<a href="https://tecnologia-informatica.com/impresoras-3d-que-son-como-funcionan-impresion-3d/"target="_blank">tecnologia-informatica></a><br>
+<a href="http://www.areatecnologia.com/informatica/impresoras-3d.html"target="_blank">Areatecnologia</a><br>
+<a href="https://definicion.de/impresora-3d/"target="_blank">Definicion De</a><br>
 
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
+<a href="https://www.youtube.com/watch?v=y5p8kzYt8Ig"target="_blank">Impresoras 3D: Funcionamiento, usos </a><br>
+<a href="https://www.youtube.com/watch?v=C4HAJ5HLuB4"target="_blank">Impresora 3D | Cómo Funciona una Impresora 3D</a><br>
+<a href="https://www.tecnonauta.com/notas/560-impresoras-3d-que-son-para-que-sirven"target="_blank">Impresoras 3D: ¿Qué son?¿Para qué sirven?</a><br>
+<a href="https://www.youtube.com/watch?v=ffkzebyYgIg"target="_blank">IMPRESORAS 3D</a><br>
 
-<a href=" https://www.youtube.com/watch?v=afOblfno0vQ"target="_blank"><b>•Video 1- ¿Qué es una Impresora 3D y cómo funciona? </b></a><br>
-<a href="https://www.youtube.com/watch?v=Zd7iP20PTd4"target="_blank"><b>•Video  2- Impresión 3D ¿La tercera revolución industrial? </b></a><br>
-<a href="https://www.youtube.com/watch?v=7s1cy2iRWm0"target="_blank"><b>•Video  3- Que es la Impresión 3D </b></a><br>
-<a href="https://www.youtube.com/watch?v=khE072FW6KE"target="_blank"><b>•Video  4-  Que es la Impresión 3D </b></a><br>
 
-
-<center> <img src=" data:image/png;base64,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 "></center>
+<center> <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1MtiE1RbSmP397x7I2ZZ6-BTzjo60w06FzGXdf-0vQUcBoKLJw"></center>
       
       <center><h1><u>TECNOLOGIA G5</u></h1></center>
- <p style="    font-weight:normal;"> •En telecomunicaciones, 5G son las siglas utilizadas para referirse a la quinta generación de tecnologías de telefonía móvil. Es la sucesora de la tecnología 4G. Actualmente se encuentra sin estandarizar y las empresas de telecomunicación están desarrollando sus prototipos.La compañía sueca Ericsson aún no ha conseguido alcanzar velocidades de 5 Gbps reales, con demostraciones en directo del estándar previo a la tecnología de red (preestándar) 5G.5​6​7​ En noviembre de 2014, Huawei anuncia la firma de un acuerdo con la operadora móvil rusa Megafon para estandarizar y desarrollar redes 5G de prueba, en vistas a la Copa Mundial de Fútbol de 2018.8​ En febrero de 2017, la Unión Internacional de Telecomunicaciones (UIT) dependiente de Naciones Unidas reveló alguna de las especificaciones de la tecnología 5G. Entre ellas se incluyen: velocidades de descarga mínimas de 20 Gbps y 10 Gbps de subida, y una latencia de 4 ms. Se pretende optimizar los dispositivos para hacerlo lo más eficiente posible para el Internet de las cosas (IoT, por sus siglas en inglés). Está previsto que todo el mundo utilice esa conectividad en 2025.</p>
+ <p>Las redes de telecomunicaciones de la próxima generación (5G) llegarán al mercado hacia 2020. Más allá de las mejoras en la velocidad, se espera que la tecnología 5G desate todo un ecosistema del Internet de las Cosas masivo en el que las redes pueden satisfacer las necesidades de comunicación de miles de millones de dispositivos conectados, con un equilibrio justo entre velocidad, latencia y costo. La guía de preguntas que se encuentra a continuación brindará una buena introducción a la tecnología 5G: en qué difiere de la 4G LTE actual, cuáles serán los nuevos casos de uso del Internet de las Cosas y cómo se beneficiarán los operadores de redes móviles con este cambio.</p>
 
 
- <p style="    font-weight:normal;"> •La tecnología 5G será el alma de la nueva economía.
-
-Los autos que se conducen solos, la realidad virtual, las ciudades inteligentes y los robots que trabajen en red: todos funcionarán con tecnología 5G muy pronto. El 5G promete abrir la puerta a nuevos procedimientos quirúrgicos, medios de transporte más seguros y comunicación instantánea para los servicios de emergencia y socorro.</p>
+ <p>La red inalámbrica de la próxima (5ta) generación abordará la evolución más allá del internet móvil, y alcanzará al Internet de las Cosas masivo hacia 2020. La evolución más notable en comparación con las redes 4G y 4.5G (LTE avanzado) actuales es que, aparte del aumento en la velocidad de los datos, los nuevos casos de uso del Internet de las Cosas y de la comunicación requerirán nuevos tipos de desempeño mejorado; como la “latencia baja”, que brinda una interacción en tiempo real a los servicios que utilizan la nube, lo que resulta clave, por ejemplo, para los vehículos autónomos. Además, el bajo consumo de energía permitirá que los objetos conectados funcionen durante meses o años sin la necesidad de la intervención humana. </p>
 
 
- <p style="    font-weight:normal;">   •Como todas las tecnologías de red inalámbrica que son “de última generación”, con 5G tu teléfono tendrá una conexión más rápida: será unas 10 veces más veloz que 4G, según anticipan los expertos de la industria. Eso es suficiente para transmitir un video de "8K" o descargar una película 3D en 30 segundos. (En 4G, eso tomaría seis minutos).</p>
+ <p>A diferencia de los servicios actuales del Internet de las Cosas que sacrifican rendimiento para sacar el máximo provecho a las tecnologías inalámbricas existentes (3G, 4G, WiFi, Bluetooth, Zigbee, etc.), las redes 5G estarán diseñadas para alcanzar el nivel de rendimiento que necesita el Internet de las Cosas masivo. Esto hará posible que se perciba un mundo completamente ubicuo y conectado.</p>
 
 
- <p style="    font-weight:normal;">•Cuando se habla de telecomunicaciones, “5G” es una sigla que significa “la quinta generación” de tecnologías de telefonía móvil. En la actualidad se está desarrollando y aún no se ha estandarizado, pero representa un futuro muy próximo.La 5G está conformada sobre la base de la 4G LTE, por lo que mantiene las funciones de mensajería instantánea, llamadas y navegación por Internet. Pero todo lo hace de una forma mucho más rápida: esta tecnología navega a 5.000 megabits por segundo. </p>
+ <p>•Cuando se habla de telecomunicaciones, “5G” es una sigla que significa “la quinta generación” de tecnologías de telefonía móvil. En la actualidad se está desarrollando y aún no se ha estandarizado, pero representa un futuro muy próximo.La 5G está conformada sobre la base de la 4G LTE, por lo que mantiene las funciones de mensajería instantánea, llamadas y navegación por Internet. Pero todo lo hace de una forma mucho más rápida: esta tecnología navega a 5.000 megabits por segundo. </p>
 
 <p><b>Referencia a  otras paginas que hablan acerca del tema:</b></p>
-<a href="http://https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_5G"target="_blank"><b> •Telefonía móvil 5G</b></a><br>
+<a href="https://www.gemalto.com/latam/telecom/inspiracion/5g"target="_blank">Gemalto</a><br>
 <a href="https://cnnespanol.cnn.com/2018/01/31/5g-que-es-como-funciona-que-cambia/"target="_blank"><b> •¿Qué es la tecnología 5G? Todo lo que necesitas sabe</b></a><br>
-<a href="https://cnnespanol.cnn.com/2018/01/31/5g-que-es-como-funciona-que-cambia/"target="_blank"><b> •¿Qué es 5G?</b></a><br>
-<a href="http://www.lr21.com.uy/tecnologia/1292746-que-es-la-tecnologia-5g-y-cuales-son-sus-ventajas"target="_blank"><b> •¿Qué es la tecnología 5G y cuáles son sus ventajas?</b></a><br>
+<a href="https://www.revistagq.com/noticias/tecnologia/articulos/como-funciona-tecnologia-5g/30612"target="_blank">Revista Gq</a><br>
+<a href="https://rincondelatecnologia.com/tecnologia-5g-maxima-conectividad-y-velocidad/"target="_blank">Rincon de la Tecnologia</a><br>
 
 
 <p><b>Videos de Referencia con relacion al tema:</b></p>
-
-<a href="https://www.youtube.com/watch?v=DDizZizSSEs"target="_blank"><b>•Video  1- ¿Qué es una tecnologia g5 ? </b></a><br>
-<a href="https://www.youtube.com/watch?v=jRs7Yg5euPo"target="_blank"><b>•Video  2-  La tecnologia g5  </b></a><br>
-<a href="https://www.youtube.com/watch?v=hRFFKVlWRag"target="_blank"><b>•Video  3-  G5 TECNOLOGIA  </b></a><br>
-<a href="https://www.youtube.com/watch?v=wf4t2J-l5zk"target="_blank"><b>•Video  4-  Telefonía Móvil 5G. La Quinta Generación.  </b></a><br>
+<a href="https://www.gemalto.com/latam/telecom/inspiracion/5g"target="_blank">Gemalto</a><br>
+<a href="https://marketing4ecommerce.net/tecnologia-5g-conceptos-basicos-sobre-el-nuevo-estandar-de-la-red-movil/"target="_blank">Tecnologia 5g</a><br>
+<a href="Qué son las redes 5G y cómo funcionan"target="_blank">Que son Las tecnologias 5g</a><br>
+<a href="https://www.youtube.com/watch?v=-_Z_rk7Xm4Y"target="_blank">Tecnología 5G y su uso</a><br>
 
 
  <center><h1><u>RESUMEN</h1></center>
 
-<p style="    font-weight:normal; text-align:center;padding:5px;"Id="unico"> Después de leer el contenido de los temas antes mencionados , esto es lo que puedo decir. Existen diferentes tecnologías antes mencionadas que han y van a seguir evolucionando en el mundo entero y se puede decir que el nuevo estándar de HTML es HTML5. Aunque algunas funcionalidades no están operativas para todos los navegadores y es un punto y aparte en el diseño web. HTML5 ha dado un paso para integrar la web en HTML. Una de las características más importantes es Canvas, ya que se integra en HTML5 si necesidad de tener que añadir otras aplicaciones como Flash. Javascript es un lenguaje de programación script con amplio soporte para navegadores y herramientas de desarrollo que permite la creación de contenidos dinámicos en una página web.
- De la ciberseguridad  se puede decir lo siguiente  el uso de Internet se ha generalizado en todos los ámbitos. Ya no sólo utilizamos Internet para leer nuestro correo electrónico o navegar por nuestro PC. Múltiples dispositivos utilizan la conexión a Internet y cada día más dispositivos están interconectados.
-Manejamos muchos dispositivos electrónicos que son susceptibles de ser utilizados con malas intenciones.
-La Ciberseguridad trata de proteger los activos de información, a través del tratamiento de amenazas que ponen en riesgo la información que es procesada, almacenada y transportada por los sistemas de información que se encuentran interconectados. 
-La Internet de las cosas es un tema emergente de importancia técnica, social y económica. Sin embargo, la Internet de las Cosas también plantea importantes desafíos que podrían dificultar la realización de sus potenciales beneficios. Con los últimos avances en CSS3 muchos de los efectos que antes sólo alcanzable en Photoshop ahora puede ser replicado en código CSS, pero a veces es difícil de visualizar la aparición de estos efectos, mirando a unas pocas líneas de sintaxis. Cuando vemos la evolución de la red de comunicación móvil, la G de generación inalámbrica móvil generalmente nos indica que ha habido un cambio en la naturaleza del sistema, la velocidad, la tecnología y la frecuencia. Cada generación tiene algunos estándares, capacidades técnicas y nuevas características que la diferencian de la anterior. </p>
+<p> Estan increible lo que he aprendido con esta clase, quiero resaltar el conocimento adquirido de todas las tecnologias antes mencionadas. la forma en que se integran las diferentes tecnologias. Html5 que es una potente herramienta para crear paginas WEB
+las diversas facilidades que da a los diseñadores de paginas Web.
+CSS3 provee de estilos dinamicos para hacer de las paginas mas amigables, bordes mas suaves, colores mas vivos en fin graficos que estan a la altura de imagenes que se exigen en estos tiempos asi como javascribd que posee una estructura para crear aplicaciones compatibles con diversos dispositivos y sistemas siendo ligeras y potentes. la inteligencia artificial es un sueño hecho realidad
+y evoluciona cada vez mas como las maquinas aprende a reaccionar como los seres humanos , acceden a redes neuronales y a la internet para responder una pregunta o realizar alguna acciones sin necesidad de los seres humanos.
+En la parte financiera con el tema de la criptomoneda es un poco mas complejo el manejo de la economia, siempre he sostenido que la computadora mas segura es la que no esta conectada a la internet , pero la forma en que las transaccion evitan su rastreo, se evaden los cargos bancarios y la seguridad que se mantine a traves de blockchain  para mantener la confiabilidad de la moneda son metodos incleibles. Hoy en dia hay que reforzar mas la seguridad de la  red y las informaciones por que los mas valioso en estos momentos son los datos de tantas organizaciones financieras, Redes sociales y de Seguridad de nacional que seria un caos una perdidad o robo de informaciones tan relevantes en este tiempo. 
+La realidad virtual, la aumentada y la mixta brinda una experiencia sin igual de todo los que el hombre puede sentir, aprender y experimentar atraves de recursos tecnologicos que influencia los sentidos para infundir diversas emociones en nuestras mentes o de brindar informaciones relevantes combinando el mundo real con datos estadisticos y matematicos de todas las cosas conectados a velocidades de comunicaciones super rapidas. Todo lo que nos rodea estara controlado, monitoreado por la tecnologia para eficientizar compras, suplir necesidades o crear nuevos productos de consumo masivo. estas combinaciones de tecnologias hacen que aplicaciones ensamblen autos y productos con exactitud atraves de algoritmos matematicos ademas de imprimir en 3d objetos </p>
 
 <p><b> Matricula :01-EIST-1-263</b></p> 
 
